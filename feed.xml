@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mr_Poeschl's Blog</title>
+        <link>https://blog.poeschl.xyz/</link>
+        <description>Der Blog vom Herrn mit dem roten Würfel. Mr_Poeschl's kleine Artikelsammlung.</description>
+        <lastBuildDate>Mon, 01 Jan 2024 11:20:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Gridsome Feed Plugin</generator>
+        <language>de</language>
+        <atom:link href="https://blog.poeschl.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[37c3: Unlocked - Videos Tag 3]]></title>
+            <link>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-3/</link>
+            <guid>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-3/</guid>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dieses Jahr bin ich dem Chaos Computer Club Congress leider auch wieder ferngeblieben, habe allerdings einige Talks daheim nachgeholt. Mit der folgenden Liste will ich einen kurzen Abriss meiner Eindrücke geben.]]></description>
+            <content:encoded><![CDATA[
+Hinter jedem meiner Texte habt ihr auch die Möglichkeit, den Vortrag selbst anzuschauen.
+
+## How to build a submarine and survive
+
+Eine sehr schöne Erzählung wie aus einem Gastank ein U-Boot entsteht und auf was man achten sollte, wenn man selbst eins baut.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11828-how_to_build_a_submarine_and_survive)
+
+## Writing secure software
+
+[FeFe](https://blog.fefe.de/) stellt einige Dinge vor um im Web gehostete Dienste auf Ops Ebene sicher zu gestalten.
+Sarcasm is included.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11811-writing_secure_software)
+
+## Chatkontrolle - Es ist noch nicht vorbei!
+
+Eine Übersicht über den Stand der Chatkontrolle, ein Drama in 3 Akten.
+Was passiert ist und was noch kommt.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12240-chatkontrolle_-_es_ist_noch_nicht_vorbei)
+
+## NEW IMPORTANT INSTRUCTIONS
+
+Ein Beispiel für Promt Injection für LLM wie ChatGpt.
+Es wird gezeigt, wie man mit passenden Anweisungen auf Webseiten, Mails, Youtube Untertitel eine "AI" übernehmen und deren Arbeitsweise komplett verändert werden konnte.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12292-new_important_instructions)
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[37c3: Unlocked - Videos Tag 4]]></title>
+            <link>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-4/</link>
+            <guid>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-4/</guid>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dieses Jahr bin ich dem Chaos Computer Club Congress leider auch wieder ferngeblieben, habe allerdings einige Talks daheim nachgeholt. Mit der folgenden Liste will ich einen kurzen Abriss meiner Eindrücke geben.]]></description>
+            <content:encoded><![CDATA[
+Hinter jedem meiner Texte habt ihr auch die Möglichkeit, den Vortrag selbst anzuschauen.
+
+## Oh no: KUNO - Gesperrte Girocards entsperren
+
+Ist eine gesperrte Girokarte wirklich gesperrt?
+Wie funktioniert die Sperrung, wenn eine Karte geklaut wurde? Und ist das System denn sicher?
+Mehr auf https://giroday.de
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11826-oh_no_kuno_-_gesperrte_girocards_entsperren)
+
+## 37c3 infrastructure review
+
+Zusammenfassung der Tage aus Sicht der Infrastruktur.
+Für mich nett: Jemand hat Pixelflut via SIP ausprobiert. 😁
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12340-37c3_infrastructure_review)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[37c3: Unlocked - Videos Tag 2]]></title>
+            <link>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-2/</link>
+            <guid>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-2/</guid>
+            <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dieses Jahr bin ich dem Chaos Computer Club Congress leider auch wieder ferngeblieben, habe allerdings einige Talks daheim nachgeholt. Mit der folgenden Liste will ich einen kurzen Abriss meiner Eindrücke geben.]]></description>
+            <content:encoded><![CDATA[
+Hinter jedem meiner Texte habt ihr auch die Möglichkeit, den Vortrag selbst anzuschauen.
+
+## Hirne hacken: Hackback Edition
+
+Lustige und weniger lustige Diskussionen bei Randsomware-Angriffen erzählt von [Linus Neumann](https://linus-neumann.de/) und wie die Menschen hinter solchen Angriffen aussehen beschreibt [Kai Biermann](https://www.zeit.de/autoren/B/Kai_Biermann/index.xml).
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12134-hirne_hacken_hackback_edition)
+
+## Von Zebrastreifen, offenen Daten und verschlossenen Verwaltungen
+
+Zugeparkte Zebrastreifen gibt es auch in Luxemburg.
+Bei Nachforschungen kommt dann heraus, das über 400 Übergänge nicht konform mit der Verkehrsordnung sind.
+Das gefällt natürlich der Stadtverwaltung nicht.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11983-von_zebrastreifen_offenen_daten_und_verschlossenen_verwaltungen)
+
+## Science Slam
+
+"Was alles möglich wäre wenn wir auf Wissenschaft hören würden." Mehr will ich garnicht sagen.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11825-science_slam)
+
+## Tor censorship attempts in Russia, Iran, Turkmenistan
+
+Kurze Übersicht wie Tor funktioniert und was Russland, Iran und Turkmenistan in den letzten Jahren versucht haben um Tor-Kommunikation zu stoppen.
+IP-Blocking der kompletten Azure-Infrastruktur ist nur ein Versuch.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12040-tor_censorship_attempts_in_russia_iran_turkmenistan)
+
+## Why Railway Is Safe But Not Secure
+
+Ein kurzer Einblick wie die Kommunikation der Bahnanlagen funktioniert und das sicher und sicher nicht das selbe sind.
+Viele Einblicke in die Bahnkultur inklusive.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11717-why_railway_is_safe_but_not_secure)
+
+## Software Licensing For A Circular Economy
+
+Ein Überblick über den Einfluss von Software auf unsere Umwelt und wie FOSS dabei eine Rolle spielt.
+In der zweiten Hälfte wird das KDE eco Programm vorgestellt.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12047-software_licensing_for_a_circular_economy)
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[37c3: Unlocked - Videos Tag 1]]></title>
+            <link>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-1/</link>
+            <guid>https://blog.poeschl.xyz/post/37c3-unlocked-videos-tag-1/</guid>
+            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dieses Jahr bin ich dem Chaos Computer Club Congress leider auch wieder ferngeblieben, habe allerdings einige Talks daheim nachgeholt. Mit der folgenden Liste will ich einen kurzen Abriss meiner Eindrücke geben.]]></description>
+            <content:encoded><![CDATA[
+Hinter jedem meiner Texte habt ihr auch die Möglichkeit, den Vortrag selbst anzuschauen.
+
+## Toniebox Reverse Engineering
+
+Schaut euch an wie eine Community hinter die technische Kulisse der TonnieBox schaut.
+Samt alternativer Firmware mit mehr Funktionen, MITM-Server und neuen Ideen für eigene Tonies.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11993-toniebox_reverse_engineering)
+
+## Breaking "DRM" in Polish trains
+
+Polnische Züge haben von Werk Security-Systeme an Bord, welche diese unter festgelegten Bedingungen nicht mehr fahren lassen.
+Diese Bedingungen sind zum Beispiel fehlende Bewegung oder der Aufenthalt in Werkstätten der Konkurrenz.
+Im Vortrag wird Stück für Stück dieser "Kopierschutz" erklärt und deaktiviert.
+Achtung, es kommt zu einem etwas tieferen Einstieg in den Quellcode in der ersten Hälfte des Vortrags.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains)
+
+## Scholz greift durch: Die AfD wird verboten - Deepfakes auch!
+
+Sehr schöne Aufarbeitung des Zentrums für politische Schönheit über ihre letzte Aktion gegen ihren besten Kunden, die AfD.
+Wem der Flyerservice Hahn ein Begriff ist, kommt voll auf seine Kosten.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12345-scholz_greift_durch_die_afd_wird_verboten_-_deepfakes_auch)
+
+## Sucking dust and cutting grass: reversing robots and bypassing security
+
+Ein Talk über das Hacken eines Ecovacs Staubsaugerroboters, damit er auch ohne eine Standleitung zum Hersteller funktioniert.
+Dieses Mal mit weiteren Sensoren wie Mikrofone oder Kameras.
+Mit dabei ist auch die Geschichte der vorherigen Talks und warum es Spaß macht, die Geräte zu öffnen.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11943-sucking_dust_and_cutting_grass_reversing_robots_and_bypassing_security)
+
+## SMTP Muggling
+
+Vorstellung einer neuen Methode, um E-Mails mit beliebigem Absender zu verschicken.
+Auch mit korrekter DMARC- und SPF-Prüfung.
+Beim Responsible Disclosure mit Mail-Providern ist dann leider nicht viel passiert.
+Heißt für dich: Die Lücke ist noch offen und fixt E-Mail-Server.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11782-smtp_smuggling_spoofing_e-mails_worldwide)
+
+## Kim: Kaos in der Telematischen Infrastruktur
+
+Was ist KIM?
+Wenn es schon unsere Arbeitsunfähigkeitsbescheinigungen, Arztbriefe und Befunde zwischen Arztpraxen und Krankenhäusern überträgt, sollte es dann nicht auch sicher sein?
+Das wird ein wenig beleuchtet und der ganze Ablauf dargestellt.
+Ich kann schon spoilern und sagen: Besser als das besondere elektronische Anwaltspostfach.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12030-kim_kaos_in_der_medizinischen_telematikinfrastruktur_ti)
+
+## Unsere Worte sind unsere Waffen
+
+Interessante Beispiele und Vorgehen von [Eva Wolfangel](https://ewo.name/) mit ChatGPT.
+Wie man mit LLM investigativen Journalismus unterstützen kann.
+Enthält viele unerwartete Antworten.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12008-unsere_worte_sind_unsere_waffen)
+
+## Die Akte Xandr: Ein tiefer Blick in den Abgrund der Datenindustrie
+
+Ein kleiner Einblick, wie unsere Tracking-Infos (Cookies, Mobile Device Tracking ID) in Segmente aufgeteilt werden und wie das mit Targeted Online-Werbung auf dem Werbemarkt funktioniert.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-11974-die_akte_xandr_ein_tiefer_blick_in_den_abgrund_der_datenindustrie)
+
+## Apple's iPhone 15: Under the C
+
+Wie funktioniert die Kommunikation zwischen iPhones und anderen Geräten?
+Eine Übersicht mit dem Lightning-Anschluss, welche Änderungen mit USB C einzogen und wie man auch heute noch iPhone Memory auslesen kann.
+
+[Aufzeichnung](https://media.ccc.de/v/37c3-12074-apple_s_iphone_15_under_the_c)
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ein kurzer "AI" Vergleich zwischen FreshRSS und Miniflux]]></title>
+            <link>https://blog.poeschl.xyz/post/ein-kurzer-ai-vergleich-zwischen-fresh-rss-und-miniflux/</link>
+            <guid>https://blog.poeschl.xyz/post/ein-kurzer-ai-vergleich-zwischen-fresh-rss-und-miniflux/</guid>
+            <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nachdem ich in den sozialen Netzwerken nach selbst-gehosteten Feed-Readern gefragt habe, sind diese beiden aufgetaucht. Um sie zu vergleichen fragen wir heute mal ChatGPT.]]></description>
+            <content:encoded><![CDATA[Wie schon beschrieben, wird der Beitrag zum Großteil von [ChatGPT] kommen.
+Zum Erstellen instruiere ich die Chat-AI solange bis ein ausreichendes Ergebnis vorliegt.
+Dabei werde ich mehrere Anfragen aneinander reihen, diese allerdings nicht manuell verändern.
+Das ganze ist ein kleines Experiment. Somit sind die Aussagen und Ansichten der nächsten Absätze nicht meine Eigenen.
+
+[ChatGPT]: https://chat.openai.com/
+
+## Vergleiche die beiden RSS-Reader FreshRSS und Miniflux
+
+RSS-Reader sind unverzichtbare Werkzeuge für diejenigen, die ständig auf dem Laufenden bleiben möchten, ohne stundenlang nach relevanten Informationen suchen zu müssen. Es gibt viele RSS-Reader auf dem Markt, aber zwei der beliebtesten sind FreshRSS und Miniflux. In diesem Artikel werden wir einen Vergleich der beiden Reader durchführen, um herauszufinden, welcher der bessere ist.
+
+FreshRSS ist ein Open-Source-Reader, der auf PHP und MySQL basiert. Es ist einfach zu bedienen und bietet eine reaktionsschnelle Benutzeroberfläche, die sich automatisch an die Größe des Geräts anpasst. Es ist auch sehr flexibel und bietet zahlreiche Erweiterungen und Plugins, mit denen Sie den Funktionsumfang erweitern können.
+
+Miniflux ist ein weiterer Open-Source-Reader, der auf Go basiert. Es ist ebenfalls einfach zu bedienen und bietet eine minimalistische Benutzeroberfläche, die auf Geschwindigkeit und Effizienz ausgelegt ist. Es ist auch sehr sicher und bietet viele Funktionen, die den Datenschutz verbessern.
+
+Eine der wichtigsten Funktionen eines RSS-Readers ist die Möglichkeit, Feeds zu abonnieren. Beide Reader bieten diese Funktion und machen es einfach, Feeds hinzuzufügen. FreshRSS bietet jedoch auch die Möglichkeit, Feeds automatisch zu organisieren, was ein großer Vorteil ist, wenn Sie viele Feeds haben. Miniflux bietet diese Funktion nicht, aber es ist auch nicht unbedingt erforderlich, da es eine einfachere Benutzeroberfläche hat.
+
+Ein weiterer wichtiger Faktor bei einem RSS-Reader ist die Geschwindigkeit. Miniflux ist in dieser Hinsicht besser als FreshRSS, da es eine minimalistische Benutzeroberfläche hat, die auf Geschwindigkeit ausgelegt ist. FreshRSS ist zwar auch schnell, aber es kann manchmal etwas länger dauern, um Artikel zu laden, besonders wenn Sie viele Feeds haben.
+
+Sicherheit ist auch ein wichtiger Faktor bei der Wahl eines RSS-Readers. Miniflux bietet viele Funktionen, die den Datenschutz verbessern, einschließlich der Möglichkeit, SSL zu verwenden und Passwörter zu verschlüsseln. FreshRSS bietet diese Funktionen ebenfalls, aber nicht so viele wie Miniflux.
+
+Schließlich ist der Preis ein wichtiger Faktor bei der Wahl eines RSS-Readers. Beide Reader sind kostenlos und Open Source, was bedeutet, dass sie von der Community unterstützt werden. Es gibt jedoch Kosten für den Betrieb eines Servers, um den Reader zu hosten. FreshRSS benötigt eine PHP- und MySQL-Umgebung, während Miniflux auf Go basiert und weniger Ressourcen benötigt.
+
+Insgesamt sind sowohl FreshRSS als auch Miniflux hervorragende RSS-Reader, die sich für verschiedene Benutzer eignen. Wenn Sie viele Feeds haben und eine flexible Benutzeroberfläche benötigen, ist FreshRSS eine gute Wahl. Wenn Sie jedoch eine minimalistische Benutzeroberfläche bevorzugen und mehr Wert auf Geschwindigkeit und Sicherheit legen, ist Miniflux die bessere Wahl.
+
+## Wie installiere ich beide mit Docker Compose inklusive Datenbank?
+
+Wenn Sie FreshRSS oder Miniflux mithilfe von Docker Compose installieren, können Sie auch eine Datenbank als Container hinzufügen, um die Anwendung noch funktionsfähiger zu machen. Hier ist ein Beispiel für die Integration von PostgreSQL als Datenbank-Container in die Docker-Compose-Datei für FreshRSS:
+
+```yaml
+version: '3'
+services:
+  db:
+    image: postgres:latest
+    environment:
+      - POSTGRES_DB=freshrss
+      - POSTGRES_USER=freshrss
+      - POSTGRES_PASSWORD=yourpassword
+  freshrss:
+    image: freshrss/freshrss
+    ports:
+      - "8080:80"
+    environment:
+      - DATABASE_URL=pgsql://freshrss:yourpassword@db/freshrss
+    depends_on:
+      - db
+```
+
+Dieser Code definiert einen Dienst mit dem Namen "db", der das PostgreSQL-Image verwendet und die Umgebungsvariablen für die PostgreSQL-Datenbankkonfiguration festlegt. Der zweite Dienst ist "freshrss", der das FreshRSS-Image verwendet und die Umgebungsvariable für die Datenbankverbindung konfiguriert, um auf die PostgreSQL-Datenbank zuzugreifen. Der letzte Teil "depends_on" stellt sicher, dass der Datenbank-Container "db" gestartet wird, bevor der FreshRSS-Container gestartet wird.
+
+Wenn Sie Miniflux ausführen möchten, können Sie den folgenden Code verwenden, um eine MySQL-Datenbank hinzuzufügen:
+
+```yaml
+version: '3'
+services:
+  db:
+    image: mysql:latest
+    environment:
+      - MYSQL_DATABASE=miniflux
+      - MYSQL_USER=miniflux
+      - MYSQL_PASSWORD=yourpassword
+      - MYSQL_ROOT_PASSWORD=yourrootpassword
+  miniflux:
+    image: miniflux/miniflux
+    ports:
+      - "8080:8080"
+    environment:
+      - DATABASE_URL=mysql://miniflux:yourpassword@db/miniflux
+    depends_on:
+      - db
+```
+
+Dieser Code definiert einen Dienst mit dem Namen "db", der das MySQL-Image verwendet und die Umgebungsvariablen für die MySQL-Datenbankkonfiguration festlegt. Der zweite Dienst ist "miniflux", der das Miniflux-Image verwendet und die Umgebungsvariable für die Datenbankverbindung konfiguriert, um auf die MySQL-Datenbank zuzugreifen.
+
+Durch das Hinzufügen einer Datenbank als Container in Ihre Docker-Compose-Datei können Sie sicherstellen, dass Ihre FreshRSS- oder Miniflux-Anwendung mit einer Datenbank betrieben wird, die in einem isolierten Umfeld läuft. Dadurch wird die Sicherheit und Stabilität Ihrer Anwendung verbessert.
+
+## Warum sollte man einen Feed-Reader nutzen? Gibt es da besondere Vorteile?
+
+Ja, es gibt viele Vorteile bei der Verwendung eines Feed-Readers. Hier sind einige Gründe, warum es sinnvoll sein kann, einen Feed-Reader zu nutzen:
+
+* Zeitersparnis: Ein Feed-Reader ermöglicht es Benutzern, auf einer einzigen Plattform alle ihre bevorzugten Nachrichten- und Informationsquellen zu abonnieren und zu lesen, ohne sich auf verschiedene Websites und Plattformen zu begeben. Das spart Zeit und Mühe beim Durchsuchen verschiedener Websites, um die neuesten Informationen zu finden.
+
+* Personalisierte Inhalte: Ein Feed-Reader ermöglicht es Benutzern, gezielt Inhalte zu abonnieren, die sie interessieren und ihnen am meisten nützen. Benutzer können ihre eigenen Nachrichtenfeeds erstellen und relevante Inhalte nach Themen sortieren, um ein personalisiertes Leseerlebnis zu schaffen.
+
+* Aktualität: Ein Feed-Reader ermöglicht es Benutzern, sofort Benachrichtigungen über neue Inhalte zu erhalten, sobald sie veröffentlicht werden. Auf diese Weise können Benutzer schnell auf die neuesten Entwicklungen in ihrem Interessengebiet reagieren.
+
+* Offline-Zugriff: Einige Feed-Reader-Apps ermöglichen es Benutzern, Inhalte für den Offline-Zugriff herunterzuladen, was besonders nützlich ist, wenn man unterwegs ist oder keine stabile Internetverbindung hat.
+
+* Keine Ablenkungen: Ein Feed-Reader kann dazu beitragen, Ablenkungen durch Anzeigen und andere Elemente auf Websites zu minimieren, die den Lesefluss stören können.
+
+* Datenschutz: Ein Feed-Reader kann dazu beitragen, die Privatsphäre der Benutzer zu schützen, da er es ihnen ermöglicht, Inhalte ohne den Einsatz von Tracker-Cookies und anderen Datenerfassungstechnologien zu lesen.
+
+Insgesamt kann ein Feed-Reader ein leistungsstarkes Tool sein, um Benutzern dabei zu helfen, sich auf die Inhalte zu konzentrieren, die für sie am wichtigsten sind, und dabei Zeit und Mühe zu sparen.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Der selbst-gießende Blumentopf]]></title>
+            <link>https://blog.poeschl.xyz/post/der-selbst-giessende-blumentopf/</link>
+            <guid>https://blog.poeschl.xyz/post/der-selbst-giessende-blumentopf/</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Seit einiger Zeit kümmere ich mich um ein paar Orchideen und diese bekommen jetzt ein wenig Automatisierung.]]></description>
+            <content:encoded><![CDATA[Mein Auf und Ab beim Gießen meiner Orchideen brachte mich dazu, eine Lösung zu entwickeln, die sowohl mir als auch meinen Pflanzen hilft.
+Ich habe eine Konstruktion gebaut und gedruckt, welches meine Orchideen regelmäßig gießen soll, ohne dass ich mich darum kümmern muss.
+Am Ende meines Artikels findet man die Bauteile und benötigten 3D-Modelle.
+
+## Orchideen gießen
+
+Da Orchideen zu den sogenannten Luftwurzlern gehören, benötigen sie in ihrem Topf Orchideensubstrat oder wurzeln komplett in einem leeren
+Untertopf.
+Das Substrat nimmt dabei Wasser auf und gibt es nach und nach wieder an die Wurzel ab.
+Somit ist reguläres gießen wie bei anderen Topfpflanzen nicht so wirklich möglich.
+Empfohlen wird daher ein Tauchen der Orchideen mit ihren Untertöpfen in stehendes Wasser, so das sich das Substrat ausreichend voll saugen
+kann.
+Das sollte man je nach Laune der Orchidee alle 4-7 Tage tun, um sie mit Wasser zu versorgen.
+
+![Das Wurzelwerk einer Orchidee mit Substrat](./images/self-watering-flower-pot/substrat.jpg)
+
+## Die Idee
+
+Als Einstieg stand der Gedanke den bekannten Tauchvorgang bei Orchideen zu simulieren.
+Also den Übertopf langsam von unten mit Wasser zu füllen und nach 1-2 Minuten wieder ablassen.
+Mit diesem simulierten Tauchen hat das Substrat genug Zeit um genügend Wasser aufzunehmen.
+Dafür benötigt es einen Wassertank, um den Topf unabhängig von einer Wasserquelle zu betreiben.
+Um ein Überfluten des Topfes zu vermeiden, muss für den Tauchvorgang die maximale Wasserhöhe festgestellt werden.
+Das könnte mit zwei Kontakten realisiert werden, die einen Stromkreis schließen, sobald das Wasser sie erreicht.
+
+## Die Umsetzung
+
+Aus dem 3D Drucker entstehen die benötigten "Töpfe". Meine erste Konstruktion somit. Anschließend zieht die Technik und
+der Mikrocontroller ein.
+
+### Der Topf
+
+Als Grundlage für die Maße des Pflanzentopfes nehme ich die Maße einer meiner normalen Orchideen-Töpfe.
+Dieser Topf wird später auf einem zylindrischen zweiten Topf stehen, welcher das Wasser enthält.
+Eine kleine Pumpe fördert das Wasser nach oben zur Pflanze.
+
+Damit das Wasser von unten nach oben steigen kann, braucht es einen Schlauch und ein Loch im oberen Behältnis.
+Außerdem gibt es einen Überlauf, sollte die korrekte Abschaltung der Pumpe nicht funktionieren.
+Dies ist äußerst wichtig, da bei einem automatischen Gießen keiner vor Ort sein wird, um ein Chaos aufzuwischen.
+Zum Schluss füge ich noch ein paar Ablauflöcher hinzu und einen kleinen Ring am Boden des Topfes.
+Dieser Ring hält ein wenig Wasser zurück, welches mit der Zeit verdampft und das Substrat so passiv befeuchtet.
+Für die Elektronik kommt noch eine kleine Box an den Blumentopf.
+
+![Das Model des oberen Blumentopf](./images/self-watering-flower-pot/model-oben.jpg)
+
+Ist das Model fertig gedruckt, erhält die Oberfläche eine Nachbehandlung um es wasserdicht zu machen.
+Dafür gibt es verschiedene Ansätze.
+Der einfachheitshalber entschied ich mich für eine Lackierung der Innenflächen mit transparenten Klarlack.
+Dieser schließt die Poren zwischen den PETG Filamentschichten und Kanten.
+
+Um ein zuverlässiges Verschließen zu erreichen, wiederhole ich die Lackierung ein zweites Mal.
+Die doppelte Schicht Lack dichtete bei mir auch wirklich alle noch vorhandenen Löcher ab.
+
+Was ich dabei gelernt habe: Für ein paar Stunden den Topf voll gefüllt stehen lassen, denn oftmals tropft es
+langsam noch durch ein kleines Leck.
+
+![Die beiden gedruckten Töpfe, (der 2. Iteration, daher sind sie weiß)](./images/self-watering-flower-pot/gedruckte-toepfe.jpg)
+
+Es kommt vor, dass am Boden des Blumentopfes Wasser eindringt.
+Dabei funktionierte leider auch nicht das Erhöhen der soliden Druckschichten der innenliegenden Flächen.
+Ich verfolge dies nicht weiter, da es direkt in den Wassertopf tropft.
+
+### Die Technik
+
+Eine kleine 5V Pumpe transportiert das Wasser aus dem Reservoir über einen Plastikschlauch bis in den oberen Topf.
+Der Plastikschlauch sollte dabei nicht zu viel im Topf nach oben überstehen.
+Sonst kann es passieren, dass zu viel Wasser im Blumentopf stehen bleibt, falls die Ablauflöcher verstopfen.
+Ein Relais mit einer Schaltspannung von 3V realisiert die Steuerung der Stromzufuhr zur Pumpe.
+Dieses ermöglicht den direkten Betrieb mit einem [D1 Mini Microcontroller].
+Auch die 5V Spannungsversorgung kann direkt über den Microcontroller laufen, da die Stromstärke der Pumpe noch klein genug ist.
+Somit erfolgt die 5V Stromversorgung des kompletten Blumentopfs über den Micro-USB Anschluss des D1 Mini.
+Die Spannung zum Schalten des Relais kommt hierbei auch direkt von dem `D1` Pin der Steuerungsplatine.
+
+![Die Technik an dem oberen Blumentopf](./images/self-watering-flower-pot/technik.jpg)
+
+Um jetzt den maximalen Wasserstand im oberen Blumentopf zu detektieren, benötigt es noch den "Endstopp".
+Dafür zieht man aus einer 3-poligen Stiftleiste den mittleren Stift heraus und verlötet die anderen beiden jeweils mit einem Stück Kabel.
+Dieses wird an der 3V Spannungsversorgung und dem Analog-Pin `A0` angeschlossen.
+Gelangt das Wasser zu den beiden "Prüfspitzen", steigt die Spannung an.
+Der gemessene Wert an `A0` erhöht sich und kann mittels einem Schwellwert in ein digitales Signal umgewandelt werden.
+
+![Der Endstop am Innen-Topf-Rand wenn er Wasser berührt](./images/self-watering-flower-pot/endstop.jpg)
+
+[D1 Mini Microcontroller]: https://arduino-projekte.info/wemos-d1-mini/
+
+### Die Programmierung
+
+Wie alle in meinem Einsatz befindlichen [ESP8266 Microcontroller] wird auch der Blumentopf mittels [ESPHome] bespielt.
+ESPHome ist eine Software welche aus einer Konfiguration im YAML Format sich selbstständig den passenden Quellcode erzeugt.
+Dieser kompiliert direkt und kann anschließend direkt per USB oder OTA (Over-The-Air) auf den Microcontroller geflashed werden.
+Das erspart mir eine eigene Implementierung für jeden meiner Chips und ermöglicht eine einfache Konfiguration.
+Außerdem kann über die OTA Funktionalität später die Firmware jedes Chips komfortabel verändert werden, ohne diesen ausbauen zu müssen.
+Ebenso ist ESPHome direkt in Home Assistant integriert und so landet der Blumentopf auch automatisch bei meinen existierenden Geräten.
+
+Nach dem Anlegen der Basiskomponenten für den Pumpen-Ausgang und den analogen Eingang des Endschalters wird der Schalter der Pumpe
+mit einer zusätzlichen Funktion versehen.
+Diese schaltet die Pumpe automatisch aus, sobald der Endschalter sich meldet oder ein paar Sekunden vergangen sind.
+Diese "Timeout"-Zeit dient mir als rudimentärer Trockenlauf-Schutz.
+
+```yaml
+switch:
+  - id: pump_switch
+    # ...
+    on_turn_on:
+      then:
+        - wait_until:
+            condition:
+              - lambda: return id(maxWaterTrigger);
+            timeout: !lambda "return id(pumpTimeout) * 1000;"
+        - switch.turn_off: pump_switch
+```
+
+Um das Überschreiten der Spannungsschwelle des Wassersensors möglichst einfach zu nutzen, entsteht bei dem analogen Sensor ein
+Bereichsfilter.
+Dieser setzt eine globale Variable auf `true`/`false`. Abhängig davon, ob die Schwellen-Spannung überschritten wurde.
+
+```yaml
+sensor:
+  - id: water_sensor
+    # ...
+    on_value_range:
+      - above: !lambda "return id(thresholdVoltage);"
+        then:
+          - globals.set:
+              id: maxWaterTrigger
+              value: "true"
+      - below: !lambda "return id(thresholdVoltage);"
+        then:
+          - globals.set:
+              id: maxWaterTrigger
+              value: "false"
+```
+
+Die Logik eines Gießvorgangs wird in einer 1-Knopf-Komponente abgebildet.
+D.h. man löst das Gießen schnell und einfach über einen einzigen Knopf auf der Web-Oberfläche des Home Assistant aus.
+Ein Gießvorgang besteht zum einen aus dem Einschalten der Pumpe und zum anderen aus dem Abwarten, bis sich dies wieder abschaltet.
+Nach einer kurzen Pause wiederholt sich der Vorgang so lange, wie es die konfigurierbare Zahl an Durchläufen definiert.
+Sprich, die vorgegebene Zahl an Vorgängen gibt an, wie oft die Pumpe den oberen Blumentopf unter Wasser setzt.
+Danach fließt das Wasser mittels Gravitation wieder nach unten zurück.
+Für das automatische Gießen plant die Interval-Komponente von ESPHome einen "Klick" auf den Gieß-Knopf alle 5 Tage ein.
+Somit steht der Blumentopf für sich alleine als funktionsfähiges Gerät und benötigt keinen externen Trigger für das Gießen.
+
+```yaml
+button:
+  - id: giessen
+    # ...
+    on_press:
+      - repeat:
+          count: !lambda "return id(wateringCount);"
+          then:
+            - switch.turn_on: pump_switch
+            - wait_until:
+                - switch.is_off: pump_switch
+            - delay: 2s
+      - switch.turn_off: pump_switch
+
+interval:
+  - interval: 5days
+    then:
+      - button.press: giessen
+```
+
+Um die Pumpzyklen und Pumpzeiten dynamisch verändern zu können, hinterlegt man sie als Variablen.
+Später im laufenden Betrieb verändert man diese Laufzeit-Variablen dann schneller über die Einstellungsseite des Blumentopfs im Home
+Assistant.
+
+![Die Geräteoberfläche im Home Assistant](./images/self-watering-flower-pot/ha-ui.png)
+
+Den vollständigen Code findet man bei mir in der öffentlichen [Home Assistant Konfiguration].
+Darin steht meine aktuell benutzte Konfiguration.
+Da ich inzwischen bereits 2 Blumentöpfe "teste" ist der in einer [ausgelagerten Datei] zu finden.
+Die gerätespezifischen Konfigurationen enthalten nur noch Referenzen auf weitere Dateien für WLAN- und MQTT-Anbindungen.
+
+[ESPHome]: https://esphome.io/
+[ESP8266 Microcontroller]: https://de.wikipedia.org/wiki/ESP8266
+
+[Home Assistant Config Repository]: https://github.com/Poeschl/P-Assistant-config/tree/master/esphome
+
+[ausgelagerten Datei]: https://github.com/Poeschl/P-Assistant-config/blob/master/esphome/includes/d1-flowerpot.yaml
+
+## BOM (Bill of Materials)
+
+* [3D Druck-Modelle](https://www.printables.com/de/model/377171-selbstgiessender-blumentopf)
+* [Pumpe](https://www.amazon.de/dp/B09NW3Q3ZG) (Wichtig ist nur die 5V Eingangsspannung)
+* [Schlauch](https://www.amazon.de/dp/B016DO3O4K)
+* [D1 Mini Microcontroller](https://www.amazon.de/dp/B01N9RXGHY) (das kann auch ein andere aus der ESP Familie sein. Wichtig ist ein
+  analoger Eingang.)
+* [Relais Baustein](https://www.amazon.de/gp/product/B07V1YQQGL) (Jedes andere Relais für das ein Schaltstrom von 3V ausreicht, geht
+  genauso)
+
+Die obigen Links sind alle von Amazon, aber es gibt die Bauteile auch von anderen, lokalen Händlern oder Baumärkten.
+
+## Fazit
+
+Zum Zeitpunkt des Artikels habe ich schon eine Version 2 am Laufen, welche ich Euch hier vorstellte.
+Bisher nehmen es meine beiden Orchideen ganz gut an.
+Beim ersten Blumentopf habe ich inzwischen ein kleines Podest unter den Innentopf gestellt, da diese sonst "wegschwimmt", sobald das Wasser
+steigt.
+Nachdem ich auch bei V2 das Wasserreservoir größer gedruckt habe, ist auch das zweiwöchentliche Auffüllen nicht mehr nötig.
+Dabei hilft auch eine andere Pumpe, welche bis zu einem niedrigeren Wasserspiegel funktioniert.
+Was mir die letzten Tage aufgefallen ist: Im Infill des Wassertopf-Deckels sammelt sich beim Gießvorgang Wasser.
+Ob das ein Problem darstellt, wird sich noch zeigen.
+
+![Der fertige Topf V2 an seinem Einsatzort](./images/self-watering-flower-pot/fertiger-topf-v2.jpg)
+
+Alles in allem ist es ein cooles Projekt welches ich weiter verfolge.
+Eine Orchidee ist noch nicht damit versorgt und ich habe mir inzwischen Relais-Shields für den Microcontroller bestellt.
+Also nur eine Frage der Zeit bis aus der aktuellen V2 ein V3 wird.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Just another First Post]]></title>
+            <link>https://blog.poeschl.xyz/post/just-another-first-post/</link>
+            <guid>https://blog.poeschl.xyz/post/just-another-first-post/</guid>
+            <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nachdem es ja immer so eine kleine Tradition ist seinen eigenen Blog und die Technik vorzustellen: hier der Post dazu.]]></description>
+            <content:encoded><![CDATA[
+## Technik
+
+Die Seiten werden mittels Gridsome generiert.
+Gridsome erzeugt aus Markdown-Files und Vue Komponenten statische HTML Seite welchen dann mittels GitHub gehostet werden.
+Zusätzlich werden auch Meta-Daten wie die Site-Map oder `robots.txt` automatisch generiert.
+
+## Artikelformat
+
+Ein Artikel besteht auf Quellcode Ebene aus einem Markdown-Textfile und Metadaten an dessen Anfang.
+Für diesen Artikel sehen die ersten Zeilen so aus:
+
+```markdown
+---
+title: Just another First Post
+teaser: "Nachdem es ja immer so eine kleine Tradition ist seinen eigenen Blog und die Technik vorzustellen: hier der Post dazu."
+date: 2023-01-15
+published: true
+tags: ["gridsome"]
+image: ./images/first-post/gridsome.svg
+canonical_url:
+---
+
+## Technik
+
+Die Seiten werden mittels Gridsome generiert.
+```
+
+## Warum Gridsome?
+
+Ich spiele ja schon länger mit dem Gedanken meine Blog-Artikel auf statische Seiten zu hosten.
+Einfach da ich somit das ganze auch mal ohne Updates stehen lassen kann und nicht in die Gefahr von Sicherheitslücken laufe.
+Zwar erfordert der Bau-Prozess etwas Aufmerksamkeit, aber das ist nicht zeitkritisch.
+Außerdem wollte ich nicht jetzt eine Woche meine eigene Oberfläche und Logik fürs Generieren aufbringen.
+[Gridsome] bringt da praktischerweise schon sogenannte "Starter" mit, welche einen funktionierenden Stand mit einem Design darstellen.
+Vergleichbar mit Themes auf Wordpress.
+
+[Gridsome]:https://gridsome.org/
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Unser GitLab Bot - Chappie]]></title>
+            <link>https://blog.poeschl.xyz/post/unser-git-lab-bot-chappie/</link>
+            <guid>https://blog.poeschl.xyz/post/unser-git-lab-bot-chappie/</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unsere Lösung für die Automatisierung von verschiedensten Prozessen in unserem GitLab. Mehr Self-Service und weniger manueller Aufwand für die Administation.]]></description>
+            <content:encoded><![CDATA[
+Wir benutzen als Quellcodeverwaltung und Issue-Tracking unserer Projekte eine eigene GitLab Installation.
+Jeder von uns (Mitarbeitern) hat darauf einen eigenen Benutzer und hat somit Zugriff auf die bei uns gehosteten Kundenprojekte.
+Im täglichen Betrieb begleiten uns dabei Aufgaben die sich immer gleich wiederholen, wie zum Beispiel das Anlegen eines neuen
+Kundenprojekts.
+Diese sind nicht schwierig, aber fordern doch von uns Zeit und Aufmerksamkeit um Fehler zu vermeiden.
+Auch die zeitliche Verfügbarkeit spielt dabei eine Rolle, manchen Prozesse werden von den Teamleitern getätigt, für manche wird ein
+Administrator benötigt.
+
+Da viele dieser Aufgaben nach Schema F ablaufen, könnte man diese auch automatisieren.
+Unsere Lösung dafür ist ein eigener GitLab-Bot, welcher uns diese Arbeiten abnimmt.
+
+## Unsere häufigen wiederkehrenden Prozesse
+
+Einer unserer wichtigsten Prozesse im GitLab ist das Erzeugen der Struktur für Kundenprojekte und die anschließende Rechtevergabe.
+Dabei halten wir uns an eine definierte Struktur mit GitLab Gruppen, die in unseren eigenen Guidelines festgelegt wurde.
+Die Rechte der einzelnen Projekt-Mitglieder hängt auch entsprechend den Guidelines von ihrer Tätigkeit ab.
+Projektleiter erhalten zum Beispiel mehr Berechtigungen als QA.
+
+Ein weiterer Prozess, welcher gerne vergessen wird, ist das Hinzufügen neuer Mitarbeiter\*innen in unsere Standard-Gruppen.
+Um Projekte intern zu veröffentlichen benutzen wir bestimmte Gruppen wie `pixel-all-developer` um allen Mitarbeitern Entwicklungsrechte zu
+geben.
+Beim Eintritt eines neuen Mitarbeiters\*in wird automatisch von unserer IT ein Benutzer in GitLab angelegt, allerdings ist dieser erst mal
+für sich allein.
+Somit muss ein Administrator jeden neuen User in unsere 3 Standard-Gruppen hinzufügen.
+
+Was auch vor allem mich als Administrator oft ereilt ist das Registrieren von GitLab Runnern für ein Kundenprojekt.
+Wir benutzen inzwischen für die Continious Integration in unseren selbst gehosteten Projekten die GitLab CI Umgebung.
+Diese bietet uns an über eine Konfigurationsdatei eine beliebige Build-Pipeline aufzubauen und auf registrierten Maschinen, den
+GitLab-Runnern, auszuführen.
+Als Standard hat ein Projekt keinen GitLab Runner, diese müssen bei Bedarf von einem Administrator für ein Projekt registriert werden.
+
+## Die Umsetzung mit dem GitLab-Bot Chappie
+
+Um die genannten Prozesse anzustoßen, erhält Chappie ein eigenes GitLab-Projekt, welches seine Aufgaben enthält.
+Aufgaben werden als Issues angelegt und für jeden Prozess gibt es eine Vorlage, welche bei der Erzeugung ausgewählt wird.
+
+![Issues Vorlage](./images/gitlab_bot_chappie/project_template.png)
+
+Jede diese Vorlagen enthält eine kurze Beschreibung was das fertige Issue auslösen wird und einen Metadata Bereich am Ende.
+Dieser Block teilt Chappie letztendlich alle benötigten Informationen mit.
+Kommentare darin helfen dem Ausfüllenden die richtigen Angaben einzutragen.
+Jedes Issue-Template weist automatisch der neuen Aufgabe ein Label zu, welches den Prozesstyp beschreibt.
+Abschließend ist das fertige Ticket noch dem Chappie-Benutzer zuzuweisen, entweder bei Erstellung oder nachträglich.
+
+Chappie bearbeitet beim nächsten Durchsuchen aller offenen Issues im Kontroll-Projekt die Aufgabe.
+Feedback bei Fehlern und die Erfolgsmeldung werden von ihm über Kommentare in den Issues kommuniziert.
+Im Fehlerfall wird auch der Autor des Issues zugewiesen, so das GitLab eine E-Mail an den betreffenden Benutzer verschickt.
+Ist der Prozess abgeschlossen, wird das Issue ebenso geschlossen.
+
+![Erfolgsmeldung bei bearbeitetem Issue als Kommentar](./images/gitlab_bot_chappie/project_success.png)
+
+## Automatische Prozesse
+
+Das beschriebene Vorgehen deckt somit manuell ausgelöste Vorgänge ab, für eventbasierte Aufgaben ist noch ein weiterer Schritt
+implementiert.
+Chappie überwacht dafür periodisch für die Aufgaben relevante Informationen und erstellt bei passenden Umständen automatisch ein Issue.
+Um das am Beispiel der Standard-Benutzergruppen zu erklären: Chappie überprüft die Gruppen jeden Benutzers auf die jeweils passenden
+Standards.
+Da wir gemeinsam mit unserer Schwester-Firma GitLab nutzen ist hier die Firmenzugehörigkeit im Bezug auf die richtigen Benutzer-Gruppen
+wichtig.
+Unterschieden werden können diese über die Informationen unseres Active Directories.
+GilLab ist an dieses für die Authentifizierung angebunden und kennt somit die Gruppenzugehörigkeiten in der Domäne.
+Die werden jetzt genutzt um auf den richtigen GitLab-Standard-Gruppen prüfen zu können.
+Hat ein Benutzer eine oder mehrere Gruppen nicht, erstellt Chappie automatisch ein Issue in seinem Kontrollprojekt.
+Dieses ist bereits vorausgefüllt und dem jeweiligen Firmen-Administrator zugewiesen, um auch wieder eine Notification auszulösen.
+Er kann nun den Prozess wie bereits erklärt Chappie zuweisen und dieser führt die Gruppen-Zuweisung aus.
+
+![Automatisch generierte Aufgabe zur Gruppenzuweisung](./images/gitlab_bot_chappie/user.png)
+
+## Externe Systeme
+
+Für manche Aufgaben von Chappie muss in andere Systeme eingegriffen werden.
+Aktuell ist das für das Einrichten von GitLab Runnern nötig, wofür diese auf unseren Buildservern registriert werden müssen.
+Um für die Erst-Implementierung keine SSH-Verbindung zu den Servern aufbauen zu müssen, generiert Chappie vorgefertigte Shell-Scripte.
+Diese sind von einem Administrator manuell auf den jeweiligen Servern auszuführen.
+Um ihn zu informieren wird das Issue ihm zugewiesen und er bekommt dadurch eine E-Mail Benachrichtigung.
+Nach der Ausführung liegt es dann auch an ihm das Issue zu schließen.
+
+![Kommentar mit den generierten Shell Scripten](./images/gitlab_bot_chappie/scripts_success.png)
+
+## Ausblick
+
+Der aktuelle Stand unseres GitLab-Bots vereinfacht uns schon jetzt den Administrator Alltag und ist nur der erste Schritt zu weiterer
+Unterstützung.
+Denkbar als Erweiterungen sind aktuell die automatische Generierung von Kundenprojekt-Readme Dateien oder die Einbindung unseres Sonatype
+Nexus.
+Die Erweiterbarkeit ist bei Chappie nur durch den Aufwand in der Implementierung der Prozesse begrenzt.
+
+Auch ist eine weitere Entlastung unserer GitLab-Administratoren denkbar, da weitere Benutzer für ihre Projekte "Self-Service" betreiben
+können.
+Durch das Kontrollprojekt von Chappie lassen sich zeitnah und unabhängig Prozesse anstoßen, welche sonst der Administrator manuell
+ausgeführt hätte.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Wallpanel für Home Assistant]]></title>
+            <link>https://blog.poeschl.xyz/post/wallpanel-fuer-home-assistant/</link>
+            <guid>https://blog.poeschl.xyz/post/wallpanel-fuer-home-assistant/</guid>
+            <pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Im frisch gebauten Haus meiner Schwester sind viele elektrische Gerätschaften und die komplette Hauselektrik über Home Assistant steuerbar. Für einen einfachen Zugang dazu, haben wir uns überlegt ein Wallpanel in die Wand einzulassen.]]></description>
+            <content:encoded><![CDATA[
+## Die Halterung für das Tablet
+
+Bei der Planung stand von Anfang an fest, dass die Halterung noch im Putz verankert sein soll.
+Somit trägt das ganze möglichst wenig auf die Wand auf.
+Die Halterung wird „natürlich“ mit dem eigenen 3D-Drucker gedruckt. Aber zuerst zum Tablet.
+Mir ist dabei eine aktuelle Android-Version und ein gutes Preis/Leistungsverhältnis wichtig.
+Am Ende meiner Recherchen landete ich bei
+einem [Tablet von Lenovo](https://www.amazon.de/gp/product/B07SQR77DP/ref=ppx_yo_dt_b_search_asin_title).
+Mit dem 3D-Tool Fusion360 und den passenden Abmessungen des Tablets ist nach ein paar Stunden die
+[Halterung](https://www.printables.com/de/model/295280-wall-mount-for-lenovo-tab-m10) erstellt.
+Vor Ort haben wir diese an die Wand verschraubt und später mit verputzen lassen.
+An der Halterung sind dafür extra Wände integriert, um den Putz direkt anstehen zu lassen.
+Für die Stromversorgung des Tablets ist ein eigenes Netzteil-Kabel direkt hinter dem Tablet vorgesehen.
+Somit sieht man später keine Kabel außerhalb der Wand.
+
+![Der Rahmen](./images/wallpanel-verena/Wallpanel-Halter-gedruckt-768x505.png)
+
+![Direkt auf die Ziegel aufgeschraubt](./images/wallpanel-verena/Wallpanel-Halter-montiert-768x686.png)
+
+![Und eingeputzt](./images/wallpanel-verena/Wallpanel-Halter-eingeputzt-768x621.png)
+
+## Die Wallpanel-App
+
+Als App zur Anzeige der Home Assistent Oberfläche habe ich mich für die [Wallpanel App](https://github.com/thanksmister/wallpanel-android)
+entschieden.
+Diese zeigt eine vordefinierte Webseite im Vollbildmodus und bietet weitere Komfort-Features.
+Das Wichtigste für mich ist die Aktivierung des Displays bei Bewegung vor dem Tablet.
+Dies wird ausgelöst über die Bewegungserkennung der Front-Kamera.
+Zusätzlich überträgt des Tablets auch Metriken an einen MQTT Broker, wie Akkustand, erkannte Bewegungen sowie auch
+einige Sensordaten wie Luftdruck und Temperatur (wenn unterstützt).
+Allerdings sollte man jegliche Batteriespar-Modi für die App deaktivieren.
+Sind sie es nicht, verhindert das Android-System unter Umständen eine permanente Bewegungserkennung.
+
+Die Wallpanel-App bietet darüber hinaus auch die Möglichkeit auf QR-Code zu reagieren oder sich per REST- oder MQTT-Aufrufe steuern zu
+lassen.
+Zum Beispiel, um das Tablet automatisch aufzuwecken, wenn es an der Haustür geklingelt hat.
+
+## Das Finish
+
+Mit laufender App und fertiger Halterung fehlt nur noch ein passendes Finish über die Tablet-Ränder.
+Dieses wird aus einem Stück Holz in der hauseigenen CNC-Fräse gefräst.
+Die Holzabdeckung ist mit 4 Magneten mit der ausgedruckten Halterung fixiert.
+Dadurch ist sie jederzeit abnehmbar, um an die seitlichen Tablett-Tasten zu gelangen.
+
+![Das Tablet in der Halterung](./images/wallpanel-verena/Wallpanel-Halter-bestueckt.png)
+
+![Mit aufgesetzter Holzblende](./images/wallpanel-verena/Wallpanel-Halter-fertig-1000x765.png)
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Home Assistant - Ein modernes Smart Home System]]></title>
+            <link>https://blog.poeschl.xyz/post/home-assistant-ein-modernes-smart-home-system/</link>
+            <guid>https://blog.poeschl.xyz/post/home-assistant-ein-modernes-smart-home-system/</guid>
+            <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ein Artikel über das Herzstück meines Smart Home Systems: Home Assistant. Ein kurzer Überblick über die Einrichtung der ersten Geräte und meine Erfahrungen.]]></description>
+            <content:encoded><![CDATA[
+Nach einigen Artikeln über meine DIY Geräte und Integrationen für mein Smart Home, gibt es heute mal einen Artikel über das Herzstück des
+Systems: Home Assistant.
+Ich habe vor, mit euch durch eine Beispiel-Installation auf einem Raspberry Pi zu gehen und euch ein paar Tipps mit auf den Weg zu geben.
+
+## Smart Home
+
+Jeder von euch hat mindestens eines der folgenden Smart Home Systeme gehört: Google Home, Amazon Alexa, GiraHome, Bosch Smart Home, Homee.
+Alle diese sind ziemlich populär und funktionieren auch gut, allerdings haben auch alle eines gemeinsam.
+
+Alles funktioniert über die "Cloud", also verschiedene Server im Internet.
+Diese werden von den Anbietern betrieben und bieten den Service von überall aus an.
+
+In meinen Augen hat dieses Konzept allerdings ein paar Knackpunkte:
+
+Zum einen begibt man sich eine völlige Abhängigkeit des Anbieters.
+Beschließt dieser das Ende des Systems, kann nichts mehr damit betrieben werden.
+Auch ist bei vielen Anbietern die Integration von Geräten auf einen Hersteller beschränkt.
+
+Auch möchte ich eigentlich nicht meine Sensorwerte und Daten meiner Wohnung oder eines Hauses ins weite Internet übertragen.
+Wenn ich meine lokalen Geräte steuere dann muss mein Knopfdruck doch nicht zuerst ins WWW und dann wieder zu mir und in die Lampe zurück.
+
+Genau diese beiden Punkte nimmt sich Home Assistant vor, es verspricht ein lokales Smart Home System ohne eine online Cloud.
+
+## Home Assistant
+
+![Home Assistant Icon (Jeremy Geltman, [CC BY-SA 4.0 ](https://creativecommons.org/licenses/by-sa/4.0), via
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Home_Assistant_Logo.svg))](./images/home_assistant/Home_Assistant_Logo_app.png)
+
+Man sollte sich nicht der Technologie beugen, sondern sie sollte eher mit Automation vorhandene Bewegungsabläufe und Geräte unterstützen.
+Das ist eines der Kredos der Gründer von Home Assistant.
+Durch die verschiedenen Integrationen ist das bereits mehr als gut umgesetzt.
+Viele bereits vorhandene Geräte verschiedenster Hersteller können somit direkt eingebunden werden.
+
+Home Assistant beobachtet die eingebundenen Sensoren und kümmert sich auch um die Kontrolle von aktiven Elementen wie Lampen oder
+Heizungsthermostaten.
+Definiert man Automatismen in Home Assistant entsteht daraus ein automatisches Zusammenspiel aus Actio und Reactio.
+
+Auch läuft das komplette System lokal im eigenen Netzwerk, das heißt Steuer- und Sensordaten verlassen nicht die eigenen 4 Wände.
+Dadurch ist man generell auch unabhängig von externen Servern.
+
+Viele Freiwillige entwickeln Home Assistant als Open Source Projekt auf [GitHub](https://github.com/home-assistant).
+Im Jahr 2019 war das System in den Top 10 der meisten Änderungen in einem öffentlichen Repository.
+Als ein Projekt ohne eine große Firma im Rücken ist das eine herausragende Leistung.
+Home Assistant ist inzwischen das Produkt von Nabu Casa, eine Firma mit den 5 Kern-Entwicklern welche nun Vollzeit daran arbeiten.
+Diese finanziert sich durch eine optionale Anbindung von Home Assistant an die eigene "Cloud" für die Integration in das Alexa oder Google
+Home Universum.
+Für die annehmbare Summe von 5$ pro Monat wird einem auch bei dem entfernten Zugriff unter die Arme gegriffen.
+Ganz neu dabei ist auch ein eigener TTS Dienst welcher sich durchaus hören lassen kann.
+
+## Installation
+
+Installieren kann man Home Assistant auf viele Arten.
+Für einen leichten Einstieg habe ich bei meinem ersten Versuchen einen Raspberry Pi 3 verwendet und inzwischen durch einen Pi der 4.
+Generation ersetzt.
+Auch Home Assistant selbst empfiehlt den Pi 4 auf ihrer [Webseite](https://www.home-assistant.io/getting-started/), wo auch der komplette
+Installationsvorgang auf Englisch beschrieben ist.
+
+Habt ihr euch um die Hardware gekümmert ist der erste Schritt sich das
+richtige [Installations-Abbild von der Homepage](https://www.home-assistant.io/hassio/installation/) herunterzuladen.
+Dieses liegt im tar.gz Format vor und kann mit dem [balenaEtcher](https://www.balena.io/etcher) wie ein gewöhnliches Raspberry Betriebsystem
+auf der MicroSD Karte installiert werden.
+Hier gibt es auch schon eine erste Erfahrung von mir: Spart nicht bei der Speicherkarte, schaut das ihr eine der Application Class 2
+einkauft.
+Home Assistant verändert im Betrieb sehr viele Daten und das korrumpiert nach einiger Zeit normale MicroSD Karten.
+
+Ist die Speicherkarte beschrieben steckt sie in den Pi und verbindet ihn mit einem LAN Kabel mit eurem Netzwerk.
+Anschließend steckt das Netzteil ein und lasst euren Raspberry zum ersten Mal booten.
+([Anleitung für WLAN](https://www.home-assistant.io/getting-started/#installation))
+
+![Erster Start](./images/home_assistant/first-start.png)
+
+Und wer es vermisst einen Monitor anzuschließen, sei beruhigt, das Home Assistant Setup benötigt keinen.
+Alles wird über die Webseite verwaltet und erfordert im Normalfall keinen direkten Zugriff.
+
+Nach dem Start ist der Home Assistant über einen Browser unter der URL [http://homeassistant.local:8123](http://homeassistant.local:8123) zu
+finden.
+Dieser zeigt während der Einrichtung einen Wartebildschirm.
+Ist die Installation auf dem Raspberry abgeschlossen, wird ein Assistent zur Erst-Einrichtung angezeigt.
+Dieser legt die grundlegenden Einstellungen eurer Home Assistant Instanz fest.
+
+## Erste Integrationen einbinden
+
+![Oberfläche nach der Installation](./images/home_assistant/Übersicht-Home-Assistant.png)
+
+Nach der Einrichtung landet ihr dann schon im komplett funktionstüchtigen Home Assistant.
+Von dort lassen sich jetzt schon viele Integrationen mit ein paar Klicks installieren.
+In den meisten Fällen hat Home Assistant schon ein paar eurer Geräte gefunden.
+Ist dem so, wartet unter der Glocke im Seitenmenü eine Notification auf euch.
+Klickt man auf den Link darin, befindet man sich auf der Integrations-Seite.
+Hier könnt ihr neue Geräte und Services für euch einbinden und anpassen.
+Alle zur Verfügung stehenden Einbindungen findet ihr auch auf der [Home Assistant Seite](https://www.home-assistant.io/integrations/).
+Zum Zeitpunkt des Schreiben sind das bereits über 1700 Stück.
+
+Home Assistant versucht langsam alle seine Integrationen auch per Webseite konfigurierbar zu machen.
+Diese Umstellung nimmt allerdings immer noch etwas Zeit in Anspruch.
+Um trotzdem auch die "älteren" Services zu nutzen werden diese über YAML Konfigurationsdateien eingebunden.
+Um an die Dateien zu gelangen müssen wir allerdings einen kurzen Ausflug in die Home Assistant Addon Welt machen.
+
+## Home Assistant Addons
+
+Home Assistant bietet für alle Geräte oder Dienste welche eine eigene Anwendung benötigen die Addons an.
+Diese kapseln die Anwendungen auf eurem Raspberry Pi und ermöglichen eine Einbindung auf die Oberfläche.
+Manche davon besitzen auch keine Oberfläche, aber erweitern die Funktionen eurer Installation.
+
+![Supervisor Add-on Store](./images/home_assistant/Supervisor-Home-Assistant.png)
+
+So wie das "Samba share" Addon.
+Dieses lässt euch auf die Home Assistant Konfiguration ganz bequem über ein Netzlaufwerk zugreifen.
+Installiert wird es mit nur einem Klick im "Supervisor" Bereich der Seitenleiste unter dem "Add-on Store" Tab.
+Ist es installiert, setzt im "Configuration" Bereich des Addons noch ein Passwort und startet es.
+Falls ihr mehr über das Addon und dessen Einstellungen lesen wollt, ist der Dokumentations-Tab ein guter Anlaufpunkt.
+Jetzt aber wieder zurück zur YAML Konfiguration.
+
+## Integrationen in der YAML Datei
+
+Läuft das Samba Addon öffnet ihr (auf Windows) ein Explorer-Fenster und gebt in die Adresszeile `\\homeassistant` ein.
+Danach sollten sich 6 Ordner zeigen: `addons`, `backup`, `config`, `media`, `share` und `ssl`.
+Wir widmen uns jetzt mal nur der der Konfiguration, mehr über die anderen Ordner kann man in
+der [Dokumentation des Samba Addons](https://github.com/home-assistant/addons/blob/master/samba/DOCS.md) nachlesen.
+Nach dem Öffnen des config Ordners und der Eingabe des Passworts finden wir jetzt hier das Herz des Home Assistants.
+Lasst euch aber nicht von den vielen Dateien abschrecken.
+Was jede Datei tut, wird euch nach und nach klar wenn ihr sie braucht.
+
+Wir schauen jetzt in die configuration.yaml Datei.
+Diese kann mit jedem herkömmlichen Text-Editor geöffnet werden.
+Unter verschiedenen Sektionen lassen sich hier weitere Integrationen anlegen, indem man ans Ende der Datei oder in den passenden Bereich
+neuen Text einträgt.
+
+```yaml
+sensor:
+  - platform: command_line
+    name: CPU Raspi
+    command: cat /sys/class/thermal/thermal_zone0/temp
+    unit_of_measurement: '°C'
+    value_template: '{{ value | multiply(0.001) }}'
+
+```
+
+Der obige Auschnitt zeigt die nötigen Zeilen um mittels der command_line Integration die CPU Temperatur der Raspberry Pi's abzugreifen.
+
+Mit der Zeit wird die Datei ziemlich lang wie ihr euch vorstellen könnt.
+Tritt dieser Fall ein, besteht auch die Möglichkeit sie in verschiedene Dateien aufzusplitten.
+Mehr darüber gibt's auch in der [Home Assistant Doku](https://www.home-assistant.io/docs/configuration/splitting_configuration/).
+
+## Oberfläche
+
+Nachdem wir uns jetzt lange mit der Einbindung von Geräten und Sensoren beschäftigt haben, gehen wir doch zur Oberfläche über.
+Als Standard zeigt Home Assistant ein automatisch generiertes Dashboard mit allen ihm bekannten Informationen an.
+
+![Beispiel Karten für die Oberfläche](./images/home_assistant/Übersicht-Home-Assistant-Lovelace.png)
+
+Um diese Darstellung zu ändern kann aber jederzeit die Kontrolle über die 3 Punkte am rechten oberen Fensterrand übernommen werden.
+Habt ihr das getan, könnt ihr mehrere Tabs anlegen und diese mit verschiedensten Karten füllen.
+Dabei reicht die Standard-Auswahl von Schaltflächen bis zu Heizungssteuerungen und Verläufen.
+Um einen Überblick über alle Karten zu machen, würde ich euch einen Besuch bei
+der [Home Assistant Demo](https://demo.home-assistant.io/#/lovelace/0) empfehlen.
+Dort könnt ihr euch alle Karten mal ansehen und auch neue zum testen anlegen.
+
+## HACS
+
+![Raspberry Pi Statistiken](./images/home_assistant/Übersicht-P-Assistant.png)
+
+Wollt ihr euch noch über die Standard-Karte auf der Oberfläche austoben, lohnt sich nach einiger Zeit ein Blick in HACS (Home Assistant
+Community Store).
+Dieser bietet eine Vielzahl von Integrationen, Oberflächen-Karten und auch Themes.
+Die Installation erfolgt als Integration und ist in der [HACS Doku](https://hacs.xyz/) beschrieben.
+
+Einige meiner Empfehlungen in diesem sekundären Store sind die Integration des Deutschen Wetterdienstes, "Auto Backup" oder auch das "
+Circadian Lighting".
+Natürlich gibt es auch ein paar Lieblinge bei den Karten, darunter sind die "Bar Card", "Stack In Card" und die "Mini Graph Card".
+Diese drei erlauben mir unter andern eine wie ich finde schöne Darstellung der Raspberry Pi Statistiken.
+
+## Automatisierung
+
+Jetzt haben wir uns um die Einbindung von Sensoren und deren Darstellung gekümmert, fehlt nur noch das "Smart" im Smart Home.
+Also die Automatisierung.
+Diese ist in den meisten Fällen im Schema "Wenn etwas passiert, prüfe was anderes und wenn ok, dann mache was".
+Genau solche Dinge lässt sich im Home Assistant über seinen Automatisierungs-Bereich anlegen.
+Dieser lässt sich über die Einstellungen erreichen.
+
+Über die Oberfläche könnt ihr dort euren Ideen für verschiedenste Abläufe freien Lauf lassen.
+Seit Ende 2020 gibt es ein neues Feature in der Automatisierungswelt, die Baupläne (engl.
+Blueprints).
+Diese ermöglichen es eigene Automatisierungen zu teilen und auch welche von anderen Benutzern im lokalen System zu nutzen.
+In den beiden Wissensgebieten bin ich allerdings nicht sehr bewandert und verweise euch hier an
+die [Home Assistant Doku](https://www.home-assistant.io/docs/automation/).
+Ich bin ziemlich früh von den Automatisierungen zu Node-Red abgewandert, welches im folgenden kurz vorgestellt wird.
+
+## Node-Red
+
+Node-Red ist eine grafische Entwicklungsumgebung im IoT Umfeld.
+Es ist für sich eine eigenständige Software und erhält durch zwei Integrationen (eine in Node-Red und eine im Home Assistant) den Zugang zu
+allen Sensoren und Aktionen von Home Assistant.
+
+Mittels sogenannten Flows werden die Abläufe als Flussdiagram erstellt und dann ausgeführt.
+Die Daten zum Auswerten werden dabei über Nachrichtenobjekte an die verknüpften Knoten weitergeschickt.
+
+![Node Red Flow](./images/home_assistant/Node-RED-P-Assistant.png)
+
+Um das ganze zu veranschaulichen, erkläre ich kurz den abgebildeten Flow, welcher sich bei mir um das Einschalten eines Ventilators im
+Schlafzimmer kümmert.
+Dazu initiiert der linke, blaue Knoten den Vorgang und sendet jede Temperaturänderung als Json-Objekt mit Inhalt `{ payload: 24.0 ...}` in
+den Flow.
+Der nächste Knoten prüft jetzt ob mein Home Assistant im Winter oder Sommerbetrieb ist.
+Ist es der Sommermodus, wird anschließend die Temperatur gegen > 26.5 °C oder < 26 °C geprüft.
+Je nach dem "fließt" die Nachricht im Bild nach oben oder unten weiter.
+Im heißen Fall wird jetzt unter Tags der Ventilator eingeschalten, dabei wird auch das "Gate" blockiert.
+Das bedeutet im oberen Bereich wird jede Nachricht am Gate-Knoten ignoriert, bis dieser resettet wird.
+Dies passiert wenn der Ventilator sich wieder abschaltet.
+
+Ich persönlich bevorzuge sehr die grafische Darstellung, da es sehr schnell bei vielen und größeren Automatisierungen in Textform sehr
+unübersichtlich wird.
+Als Tipp von mir für Node-Red: Benennt eure Knoten sinnvoll und verwendet verschiedene Flows und Kommentare zum Strukturieren.
+
+Ich hoffe ich konnte euch in diesem kleinen Ausflug Home Assistant näher bringen und euch auch ein paar Tipps auf den Weg geben.
+Solltet ihr noch etwas mehr in den Konfigurationen schnüffeln wollen gibt
+meine [P-Assistant Konfiguration öffentlich auf GitHub](https://github.com/Poeschl/P-Assistant-config).
+
+Außerdem veranstalte ich mit einem meiner Arbeitskollegen so ca. alle 3 Monate
+das [Home Assistant Munich Meetup](https://www.meetup.com/de-DE/Home-Assistant-Munich).
+Darin stellen wir jedes Mal so 2-3 Themen vor und sprechen anschließend über vielerlei Themen rund um Home Assistant.
+Gastredner sind natürlich auch gerne gesehen.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BookStack]]></title>
+            <link>https://blog.poeschl.xyz/post/book-stack/</link>
+            <guid>https://blog.poeschl.xyz/post/book-stack/</guid>
+            <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Oftmals sucht man nach einem kleinen und einfachen Tool etwas strukturiert zu dokumentieren. Dabei will man nicht erst umständlich ein Wiki-System aufziehen. Bookstack hilft hier aus.]]></description>
+            <content:encoded><![CDATA[
+# BookStack
+
+Letztes Wochenende war ich auf der Suche nach einer OpenSource Software welche mir eine einfache Möglichkeit gibt ein Smart Home System und
+all ihre angeschlossenen Komponenten zu dokumentieren.
+Auf einfache Textfiles wollte ich dieses Mal nicht zurückgreifen und hab mich deshalb nach Docker-verpackten Systemen umgeschaut.
+Dabei bin ich auf [BookStack](https://www.bookstackapp.com/) gestoßen und erzähle hier jetz ein klein bisschen darüber.
+
+## Struktur
+
+BookStack ist jetzt kein komplettes Wiki-System mit hochkomplexen Features, allerdings braucht man das vor allem im Privaten oft nicht.
+Grundsätzlich ist die Dokumentstruktur in 3 Bereiche geteilt:
+
+* Ein Buchregal enthält mehrere Bücher
+* Ein Buch enthält verschiedene Kapitel
+* Ein Kapitel enthält mehrere Seiten.
+
+Und das wars. In Verbindung mit einem einfachen WYSIWYG oder Markdown Editor lässt sich damit schon einiges erschlagen.
+Es ist zudem möglich auch Tags für Seiten zu vergeben um die Volltextsuche zu verbessern.
+Zwischen den Seiten kann verlinkt werden und Bilder werden in einem eigenen Media-Manager verwaltet.
+
+![Eine Seite der Dokumentation](./images/bookstack/seite.jpg)
+
+## Authentifizierung
+
+Das Bücherregal ist standardmäßig ohne Authentifizierung, kann aber aktiviert werden.
+BookStack wartet dann mit einem vollständigen Benutzersystem inklusive Registrierung mit Mail-Versand auf.
+Auch ist eine Anbindung an LDAP oder einen OAuth Provider mit in der Installation enthalten.
+
+## Systemanforderungen
+
+BookStack arbeitet mit PHP und MySQL was in heutiger Zeit keine
+hohen [Anforderungen](https://www.bookstackapp.com/docs/admin/installation/#requirements) sind.
+Theoretisch könnte man es damit so gar auf einem Webspace hosten.
+Für mein Einsatzgebiet läuft es in einem Docker-Container auf einem Raspberry Pi.
+
+## Fazit
+
+Für ein kleines, privates Wiki finde ich BookStack mehr als ausreichend.
+Durch die einfach gehaltene Benutzeroberfläche kommen auch weniger versierte Anwender schnell an die richtige Dokumentation.
+Für alle Benutzer von Home Assistant gibt es hier auch noch einen Tipp: BookStack gibt es auch
+als [Supervisor Addon](https://github.com/hassio-addons/addon-bookstack).
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Die Kloampel]]></title>
+            <link>https://blog.poeschl.xyz/post/die-kloampel/</link>
+            <guid>https://blog.poeschl.xyz/post/die-kloampel/</guid>
+            <pubDate>Tue, 24 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unser Büro hat eine neue Smart Home Bastelei erhalten. Die Kloampel. Sie ist eine kontaktlose & recht overengineerte Lösung um den Besetztstatus unserer Toilettenräume umzuschalten und darzustellen.]]></description>
+            <content:encoded><![CDATA[
+# Die Kloampel
+
+Zu Beginn der Corona Pandemie wurden auch bei uns im Büro Maßnahmen für den sicheren Umgang ergriffen.
+Darunter fällt unter anderem, dass die Toilettenräume nur von einer Person betreten werden dürfen, da dort der Mindestabstand nicht
+gewährleistet werden kann.
+Um die Belegung anzuzeigen wurde zu Beginn ein Besetztschild benutzt.
+Bis einer unserer Teamleiter meinte "Wir als technisches Unternehmen könnten das doch auch technisch lösen".
+Und somit beginnt das Projekt kontaktlose "Kloampel".
+
+## Version 1
+
+Ich und [Sven](https://entwicklernotizen.de/author/sven/) haben uns ein paar Gedanken gemacht und uns eine simple Möglichkeit zum Schalten
+von farbigen LEDs überlegt.
+Infrarot-Abstandsmodule & farbige LEDs werden mit einem ESP8266 verbunden. Mit den Modulen können Bewegungen erkannt werden und so wird ein
+Knopf, den man berühren müsste, überflüssig.
+Eine Bewegung vor den Infrarotmodulen schaltet somit die Leds von Grün auf Rot oder umgekehrt.
+
+Die Logik dafür hatten wir schnell mittels [ESPHome](https://esphome.io/) konfiguriert und auf den Controller aufgespielt.
+Ein Chip steuert dabei zwei Ampeln (Damen- & Herrentoilette), jede mit eigener LED-Anzeige und Abstandssensor.
+
+Um die Technik auch an unseren Toilettenschildern anzubringen haben wir mit dem 3D Drucker ein erstes Gehäuse gedruckt.
+Dieses beleuchtet von unten das existierende Zimmerschild mit den Leds und das Infrarotmodul lässt sich über die Unterseite bedienen.
+Auf der Unterseite befindet sich zu dem die Micro-USB-Buchse für den Stromanschluss.
+Das Gehäuse wird mit doppelseitigen Klebeband an die Wand geklebt und das 2. Modul wird mittels einem Kabel über die Decke versorgt.
+Version 1 der "Kloampel" war geboren.
+
+![Kloampel V1](./images/kloampel/version1.jpg)
+
+## Version 2
+
+Nach ein paar Tagen wurden uns allerdings ein paar Punkte klar:
+Die Befestigung mittels Klebeband ist nicht ausreichend, da die Ampel nach 2 Tagen von der Wand gefallen war.
+Auch ist der Sensor auf der Unterseite nicht sehr bedienungsfreundlich und nicht gerade intuitiv.
+
+Durch eine Idee eines Arbeitskollegen haben wir im zweiten Anlauf versucht das existierende Zimmerschild komplett zu ersetzen.
+Das würde uns eine direkte Befestigung sowie die Verkabelung und Beleuchtung direkt im Schild erlauben.
+Nach einigen Druckversuchen hatten wir ein Model welches auf die Wandhalterungen passte und die Technik zog in ihr neues Gehäuse ein.
+Im neuen Model sind die Infrarot-Dioden jetzt nach vorne gerichtet um die Bedienung zu vereinfachen.
+Allerdings sind sie so auch mehr durch das Sonnenlicht beeinflussbar.
+Je nach Sonnenstand schalten die Module garnicht oder bereits beim Vorbeigehen in einem halben Meter Entfernung.
+Durch eine halbschräge Ausrichtung nach unten lässt sich das allerdings beheben.
+
+![Kloampel V2](./images/kloampel/version2.jpg)
+
+## Digital Deluxe Edition
+
+Nachdem die Hardware einigermaßen zufriedenstellend funktionierte haben wir uns noch erlaubt den Besetztstatus in unserem Smart Office zu
+hinterlegen.
+Dazu integrieren wir einen Raumplan unseres Gebäudes und zeigen mittels grüner und roter Farbe die Belegung an.
+Um auch eine physikalische Darstellung zu haben, druckten wir uns zusätzlich auch eine Miniaturtoilette aus und beleuchten diese von unten
+mit den entsprechenden Farben.
+
+![Kloampel Digital Edition](./images/kloampel/digitalversion.jpg)
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[IoT Rolladensteuerung]]></title>
+            <link>https://blog.poeschl.xyz/post/io-t-rolladensteuerung/</link>
+            <guid>https://blog.poeschl.xyz/post/io-t-rolladensteuerung/</guid>
+            <pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ein seit langem schwellendes Problem im Büro wurde jetzt mal angegangen. Die “nervige” Rolladensteuerung im Büro. Warum an den Schalter stellen und eine ganze Minute lang den Knopf drücken?]]></description>
+            <content:encoded><![CDATA[
+Da kann man doch auch nen Servomotor hinmachen und dann vom Rechner ansteuern! Gesagt getan, oder besser gesagt überlegt, gezeichnet und
+gekauft.
+
+Folgende Schritte waren notwendig:
+
+1. Hardware bestellen
+2. Software-Code schreiben
+3. In Homeautomation einbinden
+
+## Hardware
+
+TLTR: Am Ende des Abschnitts gibt es die Teileliste der Rolladensteuerung.
+
+Nach ein paar empirischen Erfahrungen hatte ich einen passenden Servo bestellt, welcher auch genug Kraft besitzt um die Schalter zu
+betätigen. Für einen Schalter genügt hier ein Servo, da dieser wechselseitig entweder nach oben oder unten drückt. Die entsprechenden Winkel
+werden später in der Software festgelegt.
+
+Um diesen anzusteuern habe ich mich für den `ESP8266` Chip mit NodeMCU entschieden. Dieser ist sehr kostengünstig zu erwerben (um die 2€)
+und enthält bereits einen integrierten WLAN Chip für die spätere MQTT Kommunikation. Zudem kann er mittels USB mit Strom versorgt werden und
+wird eines der vielen rumliegenden Micro-USB Netzteile als Stromquelle bekommen.
+
+![ESP8266 NodeMCU](./images/iot_rolladen/nodemcu.jpg)
+
+Nach einigen ersten Gehversuchen in Fusion 360 und ein paar Testdrucken am 3D Drucker ist der finale Entwurf für einen neuen Schalterrahmen
+entstanden. Als Muster stand mir hierfür ein Exemplar von Busch & Jaeger aus dem Schlaterprogramm Reflex Si. Dieser ersetzt den vorhandenen
+Rahmen und besitzt zudem eine Halterung für den Servo und die Platine. ([Model auf Thingiverse](https://www.thingiverse.com/thing:3729624))
+Mit diesem eingesetzten Rahmen ist weiterhin auch eine manuelle Betätigung möglich.
+
+![3D Model des Rahmens](./images/iot_rolladen/3D-Model.png)
+
+Beim Zusammenbau der Komponenten ist lediglich auf die richtige Verbindung des Servo mit den Pins zu achten. Die braune und rote Leitung des
+Servos sind immer der Ground und der +5V Anschluss. Der gelbe Draht erwartet somit das Steuersignal, welches in der Standardkonfiguration
+auf dem Pin D1 ausgegeben wird. Ich habe aus dem Stecker vorsichtig mit einem Schraubenzieher den Steuerdraht herausgezogen und kann diesen
+nun flexibel verbinden. Wo sich die Pins genau befinden steht auf der Platine und ihr seht im linken Bild die verbundene Rückseite.
+
+Für die Befestigung am Rahmen habe ich die beim Servo mitgelieferten Schrauben verwendet (Den Servo selbst auch nur 2x angeschraubt.)
+
+### Einkaufsliste
+
+* 1x MG996R Servo ([AliExpress](https://de.aliexpress.com/item/32636102294.html)
+  oder [Amazon](https://www.amazon.de/dp/B06XPDH47M/ref=cm_sw_r_other_apa_i_IqnhDbVMWPC9Q))
+* 1x NodeMCU v3 ESP8266 ([AliExpress](https://de.aliexpress.com/item/32647690484.html)
+  oder [Amazon](https://www.amazon.de/dp/B06Y1ZPNMS/ref=cm_sw_r_other_apa_i_UonhDbVNQ77E2))
+* ggf. ein USB-Micro Netzteil
+
+## Software
+
+Da ich immer noch bei der Embeddedentwicklung auf eher ungewohnten Pfade wandele benutze ich aktuell auch immer noch die Arduino Plattform
+zum compilieren. Für das eigentliche Schreiben verwende ich allerdings Sublime, da ich hier meine gewohnte Umgebung mit
+Syntax-highlighting (farbliche Hervorhebung von Befehlen und Paramatern, …) habe.
+
+![Arduino Code](./images/iot_rolladen/arduino-code.png)
+
+Am Anfang der Datei ist der Konfigurationsabschnitt um einige Einstellungen wie die WLAN oder MQTT Einstellungen festzulegen. Auch lässt
+sich hier der Pin für den Servomotor und die jeweiligen Auslenkungen justieren. Der Code sowie eine genauere Beschreibung lässt sich auf
+Github unter [Poeschl/Window-shutter-control](https://github.com/Poeschl/Window-shutter-control) finden.
+
+Einbindung der Rolladensteuerung in die Homeautomation
+Ich verwende für die Automatisierung privat als auch im Büro den [Home Assistant](https://www.home-assistant.io/) und davon das auf den
+Raspberry Pi ausgelegte Linux Distribution Hass.io. Diese erlaubt auf dem Raspi sehr schnell eine voll funktionsfähige und erweiterbare
+Plattform aufzuziehen. Um zwischen dem System auf dem Raspberry und dem NodeMCU eine Verbindung herzustellen, müssen sich beide Geräte in
+einem gemeinsamen Netzwerk befinden.
+Nach diesem Schritt muss ein MQTT Broker zur Verfügung stehen. Dieser ist als zentraler Server zu verstehen, welcher zwischen IoT-Geräten
+und dem Home Assistant vermittelt. Hass.io bietet dafür ein Addon “Mosquitto broker” an, welches sich mit einem Klick installieren lässt.
+
+Um den “Shutter-Controller” einzubinden ist noch ein kleiner Eintrag in der Konfiguration von Home Assistant nötig. Damit wird die richtige
+Topic für den Home Assistant festgelegt, auf welchen die Steuerbefehle hinterlegt werden müssen. In die Konfiguration schreibt man folgende
+Zeilen:
+
+```yaml
+cover:
+  - platform: mqtt
+    command_topic: window-shutter-control/1234/command
+    optimistic: true
+    device_class: shutter
+    retain: true
+```
+
+Nach einem Reboot steht die Rolladensteuerung auf der Oberfläche zur Verfügung und sollte ihren Dienst tun.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Circadian Lighting]]></title>
+            <link>https://blog.poeschl.xyz/post/circadian-lighting/</link>
+            <guid>https://blog.poeschl.xyz/post/circadian-lighting/</guid>
+            <pubDate>Sun, 02 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vor kurzem habe ich bei mir eine neue Integration in Home Assistant ausprobiert. Circadian Lighting nennt sie sich und passt eingebundene Lampen an das Licht der Sonne an.]]></description>
+            <content:encoded><![CDATA[
+## Circadiane Rhythmik
+
+Die Circadiane Rhythmik kann am offensichtlichsten am Tag-Nacht-Rhythmus erklärt werden.
+Die 24h eines Tages haben einen großen Einfluss auf uns. Umgangssprachlich quasi die innere Uhr.
+Diese passen wir unterbewusst automatisch bei Veränderungen an.
+Dabei spielt das Licht eine große Rolle, da es unserem Organismus mitteilt in welcher „Zeit“ wir uns befinden.
+Beleuchten wir abends unsere Zimmer mit zu hellem Licht beeinflusst das unsere innere Uhr und diese passt sich an diesen neuen Rhythmus an.
+
+Um etwas mehr darüber zu erfahren: Links zu Studien lassen sich Repository
+von [Circadian Lighting ](https://github.com/claytonjn/hass-circadian_lighting)finden.
+
+## Circadian Lighting im Home Assistant
+
+Um unseren Tag-Nacht-Rhythmus an das natürliche Normal anzugleichen passt die Integration verknüpfte Lichter in ihrer Helligkeit und
+Lichtfarbe an.
+Das passiert unmittelbar nach dem Einschalten. Beschreiben lässt sich das als rötliche Färbung und sinkender Helligkeit in den Abendstunden.
+Einigen von euch dürfte das schon von Handydisplays bekannt vorkommen.
+Mehr Details dazu finden sich im README des Repositories Graphen mit Lichttemperatur und Helligkeit je nach Tageszeit.
+
+![Circadian Lighting Sensor](./images/circadian-lighting/Circadian_sensor.png)
+
+Installieren lässt sich die Integration einfach über den Community Store HACS oder auf manuellen Weg.
+Beide Vorgehen sind auch im Repository der Integration beschrieben.
+
+Zur Aktivierung von Circadian Lighting im Home Assistant muss die yaml-Konfiguration um die Zeile `circadian_lighting:` ergänzt werden.
+Damit erstellt sich nach dem Neustart ein neuer Sensor, welcher aus den Koordinaten des Home Assistants den Sonnenstand und die
+dazugehörigen Lichtwerte errechnet.
+
+Um existierende Lampen mit den Daten zu verknüpfen, verbindet ein Switch beide Seiten. Dazu werden die Zeilen
+
+```yaml
+switch:
+  - platform: circadian_lighting
+    name: Wohnzimmer Circadian
+    lights_rgb:
+      - light.sideboard_leds
+      - light.tv_lampe
+```
+
+gebraucht. Die gezeigte Konfiguration bindet mein [LED Sideboard](/post/smarte-sideboard-le-ds-selber-bauen/) und eine weitere Lampe an
+die automatischen Farbveränderungen.
+Andere Arten von Lichtern anzubinden ist auch möglich.
+Die Integration bietet dafür die Steuerung von Lampen mit direkter Farbtemperatur (PHILIPS Hue White) oder nur der Helligkeit an.
+
+Ist der neue Switch aktiv, wird ab sofort die Helligkeit sowie die Farbtemperatur beim Einschalten passend zur Tageszeit gesetzt und
+standardmäßig alle 5 Minuten aktualisiert. Dabei ist zu beachten, dass die Farbtemperatur jetzt auch Farben von Automatisierungen
+überschreibt.
+Um das zu Verhindern deaktiviert man den Switch für die Dauer der Automatisierung oder nutzt eine separate Entity.
+Mehr darüber findet ihr in
+der [erweiterten Konfiguration](https://github.com/claytonjn/hass-circadian_lighting/wiki/Advanced-Configuration#switch-configuration-variables)
+der Integration.
+
+Die Integration bietet auch noch einen Nachtlicht-Modus an.
+Dieser wird über den Status einer Home Assistant Entity gesteuert und muss in der Switch Konfiguration angegeben werden.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Smarte Sideboard LEDs selber bauen]]></title>
+            <link>https://blog.poeschl.xyz/post/smarte-sideboard-le-ds-selber-bauen/</link>
+            <guid>https://blog.poeschl.xyz/post/smarte-sideboard-le-ds-selber-bauen/</guid>
+            <pubDate>Sat, 11 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wer kennt sie nicht, die LED Stripes hinter oder in Regalen als indirekte Beleuchtung. In jedem bekannten Baumarkt oder auch im Fachhandel gibt es sie. Manche inzwischen mit App Steuerung oder eher klassisch mit Fernbedienung.]]></description>
+            <content:encoded><![CDATA[
+Allerdings fällt mir bei genauerem Hinschauen bei den fertigen Lösungen Eines auf.
+Sie sind oft unverhältnismäßig teuer und eher schlecht in bestehende Smart Homes einzubinden.
+Also hab ich mir eine kleine DIY Beleuchtung mit LEDs überlegt, welche ich im Folgenden beschreibe.
+
+Ich hab mir für das Sideboard eine Beleuchtung mit adressierbaren LEDs vorgestellt.
+Das heißt ich kann auf ganzer Länge des Stripes nicht nur eine Farbe leuchten lassen, sondern jeder LED individuell eine Farbe zuweisen.
+Fürs Auge sollen damit nach Fertigstellung auch einige Lichteffekte im Regal möglich sein.
+
+## Zusammenstellung Hardware
+
+Nach einigen Recherchen habe ich mich bei den LEDs für den Typ Ws2812b entschieden.
+LEDs diesen Typs lassen sich mit einer Spannung von 5V betreiben und beherrschen die RGB Farben.
+
+![LED Stripe Dichten](./images/sideboard-leds/led_dichte.jpg)
+
+Im Handel werden Stripes mit verschiedenen LED Dichten verkauft.
+Gängig sind 30, 60 oder 144 LEDs pro Meter.
+Soll die fertige Beleuchtung sehr lichtstark oder flüssig aussehen ist eine höhere LED Anzahl natürlich besser.
+Allerdings bringt die höhere Anzahl der LEDs auch gravierende Nachteile mit sich.
+Die Leistungsaufnahme erhöht sich bei den beschriebenen Dichten immer um das Doppelte.
+Bei der 144 LED Variante sogar so stark, das nach 1 Meter bereits zusätzliche Spannung bereitgestellt werden soll um keine
+Helligkeitseinbrüche zu haben.
+Außerdem wird durch die knappe Bauweise und der aufwendigeren Fertigung eine höhere Dichte sehr schnell, sehr viel teurer.
+
+![Test des LED Strips](./images/sideboard-leds/led-rainbow.png)
+
+Für eine ziemlich passable Darstellung in Innenräumen empfehle ich euch die 60 LEDs/Meter, diese Stripes geben ein sehr ansehnliches
+Licht und Schatten aus ohne den Geldbeutel allzu sehr zu belasten.
+
+Um den von LEDs bekannten Effekt von direkten Lichtpunkten zu vermeiden (siehe rechtes Bild), werde ich den LED Stripe auch in einer
+Aluminium-Schiene mit Diffusor verlegen. Dieser verteilt das Licht gleichmäßig und das Aluminium dient zusätzlich als Halterung und
+Wärmeableitung für die LEDs.
+
+### Stromversorgung
+
+Für die Stromversorgung der LEDs brauche ich jetzt noch ein Netzteil mit der Spannung 5V.
+Für die Berechnung der nötigen Stromstärke multiplizieren wir die Anzahl der LEDs mit der maximalen Stromstärke einer LED.
+Ist die Stromstärke nicht angegeben ist meist die maximale Leistung pro Meter oder pro LED angegeben.
+Mit ein paar Rechnungen gelangen wir an die Stromstärke (für meine 1,30 Meter):
+
+```text
+0,3 W/LED ==> 0,3 W / 5 V = 0,06 A (Leistung / Spannung = Stromstärke)
+1,30 m * 60 LEDs/m * 0,06 A = 4,68 A
+```
+
+Für meinen Fall besorge ich mir also ein Netzteil mit 5V und 5A. Dieses kümmert sich außerdem auch um die Stromversorgung des Controllers.
+
+### Controller
+
+![NodeMCU ESP8266](./images/sideboard-leds/nodemcu.jpg)
+
+Um die LEDs auch zum Leuchten zu bringen, braucht man außerdem auch einen Controller, welcher den einzelnen LED Chips die jeweillige Farbe
+überträgt.
+Bei diesem Projekt sollen die LEDs über meinen Home Assistant gesteuert werden, weshalb meine Wahl auf den ESP8266 Controller fällt.
+Dieser hat bereits ein WLAN Modul sowie viele GPIO Anbindungen, welche multifunktional benutzt werden können.
+Controller dieser Gattung werden oft direkt auf sogenannten „Entwicklerboards“ verkauft, die direkt per Micro-USB programmiert werden
+können und GPIO Ports über Steckverbindungen zugänglicher machen.
+
+## Montage
+
+Wie bereits schon im Beitragsbild zu sehen ist, ist das Sideboard in 4 Fächer aufgeteilt.
+In jedem dieser 4 Fächer befindet sich ein zugeschnittenes Aluprofil mit ca. 30 cm Länge.
+Das Profil sowie die LED Strips sind mit doppelseitigen Klebeband angeklebt.
+
+![Befestigung Aluprofil + LEDs](./images/sideboard-leds/led-diffusor.png)
+
+Die LED Strips sind ebenfalls 30 cm lang und an deren Enden befinden sich JST 3Pin Stecker, mit dessen Hilfe sich die einzelnen Teile
+aneinander stecken lassen.
+Am Start des Strips hängt das Netzteil, gemeinsam mit dem Controller-Chip.
+Den Controller sowie die Verkabelung packte ich in eine Aufputzdose aus dem Elektrohandel, um die spannungsführenden Teile abzuschotten.
+Das NodeMCU Board ist über den VIn Pin und einem Ground direkt am Netzteil wie schon bereits erwähnt angeschlossen.
+Über den Ausgang D1 wird die Datenleitung der LEDs angesprochen.
+Das Netzteil wurde mit Schraubklemmen mit der zweipoligen Anschlussleitung verbunden.
+
+![Netzteil und Controller mit Verkabelung](./images/sideboard-leds/power-box.png)
+
+## Controller programmieren
+
+Der verbaute Controller muss jetzt noch programmiert werden, was mittels [EspHome](https://esphome.io/) realisiert wird.
+Dieses Framework generiert aus einer Konfigurationsdatei selbstständig den benötigten Programmiercode und flashed das Gerät auch auf Wunsch.
+Mehr darüber in meinem [Steckdosenartikel](/post/installieren-und-konfigurieren-von-smarten-steckdosen/).
+
+Die Konfigurationsdatei für die LEDs sieht wie folgt aus:
+
+```yaml
+esphome:
+  name: sideboard_led
+  platform: ESP8266
+  board: nodemcuv2
+
+<<: !include includes/common.yaml # Hier sind meine WLAN, MQTT und OTA Einstellungen versteckt
+
+light:
+  platform: fastled_clockless
+  id: led
+  rgb_order: GRB
+  chipset: WS2812B
+  pin: D1
+  num_leds: 72
+  name: "Sideboard LEDs"
+  effects:
+    - random:
+        update_interval: 5s
+    - addressable_rainbow:
+
+```
+
+Sie beginnt üblicherweise mit grundlegenden Angaben zum verwendeten Controllerboard, WLAN, MQTT und auch weiteren Einstellungen.
+Mein Fokus gilt hier dem Abschnitt, welcher eine Lichtkomponente beschreibt.
+
+Darin wird festgelegt, das die FastLED Bibliothek für das Ansteuern verwendet werden soll.
+FastLED ist die Logik für die Ansteuerung der LEDs. Diese weis welche Signale über die einzelne Datenleitung geschickt werden müssen, um die
+Farben richtig darzustellen.
+Auch das Chipset, die Anzahl der LEDs und die Reihenfolge der Farben wird definiert.
+Nicht zu vergessen, den Pin zu nennen, welcher an die Datenleitung der LED Strips angeschlossen ist.
+
+### Effekte
+
+Am Ende der Licht-Definition steht ein unscheinbarer Eintrag „effects“.
+Dieser Punkt aktiviert bereits in [ESPHome enthaltene Effekte](https://esphome.io/components/light/index.html#light-effects) während der
+Installation auf dem Controller.
+Kurz erklärt, beschreibt diese Konfiguration zwei mögliche Effekte:
+
+* Random, eine neue zufällige Farbe wird auf ganzer Länge des LED Stripes alle 5 Sekunden dargestellt.
+* Addressable Rainbow, der aus der LED Welt bekannte Regenbogen wird über allen LEDs angezeigt. Er bewegt sich durch den kompletten RGB
+  Farbraum und beginnt dann wieder von vorne. (Bild beim LED Strip Test)
+
+Bei Bedarf lassen sich auch eigene Animationen mit den LEDs entwickeln.
+Diese werden mittels C-Code als spezieller Effekttyp aufgenommen. Als Beispiel verweise ich hier auf den
+[Feuereffekt](https://github.com/Poeschl/home-assistant-config/blob/master/esphome/sideboard_led.yaml#L76) meiner LEDs.
+Hierbei wird für jede einzelne LED ein Flackern berechnet, womit in den Regalboxen „Feuerstellen“ simuliert werden.
+
+### Flashen
+
+Nach dem Erstellen der Konfiguration muss diese noch auf den Controller geflasht werden.
+Dazu verbinde ich den Controller entweder mit meinem Raspberry Pi auf dem ESPHome läuft oder nutze die OTA Funktionalität.
+Ist der Chip bereits einmal mit ESPHome geflasht und die OTA Komponente konfiguriert, kann dieser über das Netzwerk mit der Firmware
+versorgt werden.
+
+(Tipp: den Chip vorher mit den Basics flashen und nachträglich verändern, vermeidet unnötiges Auseinanderbauen)
+
+### Verwenden
+
+![LED Steuerung](./images/sideboard-leds/LED-control.png)
+
+Nach dem Flashen sind die LEDs über die Auto-Discovery in Home Assistant bereits erkannt und erhalten eine Steuerungs-Oberfläche.
+Diese ist links zu sehen und bietet übliche Möglichkeiten nach Lust und Laune die LEDs zu bedienen.
+
+Allerdings kommt jetzt die Home Automation ins Spiel.
+Konkret soll das „Feuer“ angehen, sobald nach Sonnenuntergang die Lieblingsposition eingenommen wurde und der Fernseher angeht.
+Da die LEDs nun als Licht im Home Assistant verzeichnet sind lässt sich das mittels den Automatisierungen oder Node-RED einfach umsetzen.
+
+Da in naher Zukunft auch ein Blog-Eintrag über mein Home Assistant Universum kommt, gehe ich allerdings an dieser Stelle nicht näher drauf
+ein.
+
+Wollt ihr eigene LED Strips mit Controller auch ohne Home Assistant und ESPHome nutzen, gibt es auch Projekte
+wie [WLED](https://github.com/Aircoookie/WLED).
+Diese bieten die Steuerung über einen eigenen Webserver auf dem Controller mit vielen Effekten an.
+
+## Zusammenfassung
+
+![Anblick von der Couch](./images/sideboard-leds/couch.png)
+
+Nach dem Zusammenbauen und bis alles endlich lief vergingen vielleicht zusammengerechnet 6-8 Stunden.
+Diese hab ich gern genutzt und mich auch in neue Sachen eingelesen.
+Und jedes Mal wenn ich von der Couch aus die LEDs sehe, breitet sich einfach das Gefühl des „Ich hab’s selbst gemacht“ aus.
+
+Zu den Kosten: Mit überschlagenen 35 – 40€ für 1,3 Meter LED Stripe, Aluprofil, Anschlüssen und Netzteil finde ich dieses Paket doch relativ
+ansprechend.
+Dafür bekommt man coole Effekte auf Einzel-LED Basis, alles lässt sich zentral steuern und keiner muss eine Cloud nutzen.
+
+## Teileliste
+
+* 5m WS2812b LEDs 60 LEDs/m [bei Amazon](https://www.amazon.de/gp/product/B01CDTEG1O/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* Netzteil [bei Amazon](https://www.amazon.de/gp/product/B005T6QCXE/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+* 2 Meter Aluminiumrahmen mit
+  Diffusor [bei Amazon](https://www.amazon.de/gp/product/B06XFY179Q/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+* JST SM 3Pin Stecker [bei Amazon](https://www.amazon.de/gp/product/B0761PLK2F/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
+* NodeMCU
+  ESP8266 [bei Amazon](https://www.amazon.de/F-blue-WiFi-Modul-Integration-Internet-Development/dp/B07LCGN35G/ref=sr_1_12?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=NodeMCU&qid=1586274081&s=diy&sr=1-12)
+
+Alle Teile sind bestimmt auch bei dem netten Händler aus den asiatischen Gebieten zu finden oder dem Händler deines Vertrauens.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Jitsi Meet AKA Videokonferenzen die einfach funktionieren]]></title>
+            <link>https://blog.poeschl.xyz/post/jitsi-meet-aka-videokonferenzen-die-einfach-funktionieren/</link>
+            <guid>https://blog.poeschl.xyz/post/jitsi-meet-aka-videokonferenzen-die-einfach-funktionieren/</guid>
+            <pubDate>Tue, 31 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Euch ist es vielleicht die letzten Tage auch aufgefallen, das man oft nach einer einfach zu verwendende Videokonferenz Lösung sucht.]]></description>
+            <content:encoded><![CDATA[Am besten ohne Konto, ohne Einstellungen und ohne viel Installation, damit es nicht nur technisch-affine Benutzer bedienen und einrichten
+können.
+
+Ein Tool das ich in letzter Zeit gerne benutze ist [Jitsi Meet](https://jitsi.org/jitsi-meet/).
+Das ist eine Videokonferenzlösung, welche komplett im Browser läuft. Dadurch spart man sich schon mal die Installation.
+Mittels einem einfachen Link können nach Eröffnung weitere Teilnehmer beitreten.
+Voraussetzung hierfür ist „nur“ ein moderner Browser (bevorzugt Chrome, Firefox bereitet kleine Probleme und Hänger).
+
+Mit technischem Wissen ist Jitsi Meet selbst aufzusetzen, allerdings gibt es von vielen Organisationen im Open Source Bereich öffentliche
+Server.
+Diese können frei und ohne Anmeldung benutzt werden. Vergesst nur nicht ein Passwort zu setzen, sonst könntet ihr Gäste bekommen.
+
+Meine Top 3 der Serverliste:
+
+* https://meet.ffmuc.net
+* ~~https://meet.linus-neumann.de/~~
+* https://jitsi.freifunk-duesseldorf.de/
+
+weitere unter https://github.com/jitsi/jitsi-meet/wiki/Jitsi-Meet-Instances
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Installieren und Konfigurieren von Smarten Steckdosen]]></title>
+            <link>https://blog.poeschl.xyz/post/installieren-und-konfigurieren-von-smarten-steckdosen/</link>
+            <guid>https://blog.poeschl.xyz/post/installieren-und-konfigurieren-von-smarten-steckdosen/</guid>
+            <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dieses Mal geht es um kleine Zwischensteckdosen und auch fest zu installierende Schalter hinter den Steckdosen. Meine Erfahrungen mit Steckdosen aus China, Shelly, Tasmota und ESPHome.]]></description>
+            <content:encoded><![CDATA[
+Neues aus meiner Smarthome Bastelecke.
+In diesem Artikel geht es um kleine smarte Steckdosen und auch um fest zu installierende Schalter hinter den Steckdosen.
+Mit diesen will ich meine Elektrogeräte aus der Ferne oder auch automatisiert durch
+meinen [Home Assistant](/post/home-assistant-ein-modernes-smart-home-system/) steuern.
+
+Konkret hab ich das Bedürfnis einen Ventilator einzuschalten, wenn sich die Außentemperatur über einen Schwellwert bewegt.
+Der Ventilator lässt sich vorab auf die richtige Stufe einstellen und dann mit der Stromzufuhr steuern.
+Zudem will ich die Steckdosenleiste, an der mein Fernseher und Multimedia hängt, je nach Anwesenheit aktivieren.
+
+Natürlich gibt es dafür bekannte Produkte von verschiedenen Herstellern welche diesen Zweck erfüllen.
+Allerdings nutzen diese eine Cloudverbindung zu ihren eigenen Servern. Ich verfolge für meine Geräte eher den Privacy-First Ansatz.
+Das heißt, es darf keine Kommunikation nach außerhalb des eigenen Netzes passieren.
+Optimalerweise sollten die Geräte zusätzlich über einen gemeinsamen Standard angesprochen werden können.
+
+In den nächsten Absätzen teile ich meine Erfahrungen mit verschiedenen Ansätzen mit euch.
+Ich hoffe euch damit vielleicht vor dem ein oder anderen unnötigen Kauf zu bewahren.
+
+## Variante 1 – Die Steckdosen aus China (Alfawise 1000PE)
+
+Nach einigen Recherchen bin ich auf eine große Community im Internet gestoßen, welche alle von [Tasmota](https://github.com/arendst/Tasmota)
+sprechen.
+Tasmota ist eine alternative Firmware für ESP8266 basierten Chipsätze, welche in den meisten Steckdosen verbaut ist.
+Diese gibt es bereits fix und fertig zum Herunterladen und muss nach dem ersten Start konfiguriert werden.
+Der einzige Wermutstropfen ist die Installation der Firmware auf den Platinen.
+Denn kaum ein Hersteller sieht ein nachträgliches Überschreiben der ausgelieferten Firmware vor.
+Auf den Platinen gibt es allerdings die Kontakte für die serielle Verbindung noch.
+Auf diese müssen eigene Drähte (sogenannte Jumper-Wires) gelötet werden, um den Chip mit dem Rechner zu verbinden.
+
+![](./images/smarte-steckdosen/alfawise-plugs.jpg)
+
+### Erster Versuch mit Tasmota
+
+Alles in allem klang es gut machbar und so sind nach einigen Wochen
+5 [Steckdosen von Alfawise](https://de.aliexpress.com/i/32969086702.html) bei mir angekommen.
+Nachdem die Gehäuse vorsichtig geöffnet waren, kann man die verschiedenen Lötpunkte mit ihrer Aufschrift sehen.
+Diese verlötete ich mit Drähten, welche später an einen [UART zu USB Converter](https://www.amazon.
+de/AZDelivery-CP2102-Konverter-HW-598-Arduino/dp/B07N2YLH26/ref=sr_1_3?__
+mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=UART&qid=1575574299&s=computers&sr=1-3) angeschlossen werden.
+
+Nach der Verbindung wird der Chip per USB mit Spannung versorgt.
+Wird während des Startens der GPIO Pin 0 mit Ground verbunden, versetzt sich der ESP8266 in den Flash-Modus.
+Mittels der [NodeFlasher Software](https://github.com/marcelstoer/nodemcu-pyflasher) überträgt man die heruntergeladene
+Firmware `tasmota.bin` dann auf den Chip. So der Plan und die Theorie.
+
+### Chip flashen
+
+In der Realität lässt sich der Chip nicht in den benötigten Flash-Modus versetzen.
+Ist der vermeintliche Pin doch gefunden, klappt es dann doch. Allerdings findet keine Datenübertragung statt.
+Nach einigen Nachforschungen mit den verschiedenen Chip-Bezeichnungen stellt sich heraus, dass der für uns interessante Chip allerdings ein
+anderer ist.
+
+![](./images/smarte-steckdosen/alfawise-plug-offen.jpg)
+
+Also werden die Kontakte umgelötet, leider liegen diese fast unzugänglich auf der Innenseite der Platine.
+Mit etwas Geschick bekomme ich an 2 von 5 Steckdosen die Drähte umgelötet und auch geflasht.
+Bei einer Steckdose habe ich (so vermute ich) durch mein Rumprobieren den Chip gegrillt.
+Und die Software der letzten zwei Steckern lässt sich auch mit den neuen Lötstellen nicht überschreiben.
+Auch nach weiteren Versuchen verweigern sie sich immer noch und somit landen leider 3/5 Steckdosen im Elektroschrott.
+Die funktionierenden Dosen werden wieder mit den Gehäusen versehen und verklebt.
+
+### Erstkonfiguration
+
+Nach dem Einstecken wird über ein eigenes WLAN Netzwerk die Erstkonfigutation durchgeführt.
+Die Zugangsdaten für das eigentliche Netzwerk werden eingetragen und anschließend die Steckdose neugestartet.
+Die Weboberfläche erlaubt das Konfigurieren der Ein- und Ausgänge des verwendeten Chipsatzes.
+Der Einfachheit halber gibt es für die vorliegende Steckdose bereits ein vorbereitetes Profil welches ich verwende.
+Danach ist die Steckdose über das Netzwerk erreichbar und lässt sich entweder direkt oder mittels
+des [MQTT Protokolls](https://de.wikipedia.org/wiki/MQTT) steuern.
+
+Somit wären beide meiner Voraussetzungen erfüllt und das „Lehrgeld“ ist noch relativ niedrig.
+Nur die Konfiguration der Steckdosen fand ich etwas umständlich, da bei mehreren Dosen jede individuell konfiguriert werden muss.
+
+### Zweiter Versuch mit ESPHome
+
+Kurz danach habe ich auch noch [ESPHome](https://esphome.io/) ausprobiert, welches für jedes Gerät eine maßgeschneiderte Firmware erzeugt.
+Dabei werden nur die benutzten Pins und ihre Funktion in einer [YAML](https://de.wikipedia.org/wiki/YAML) Datei definiert und gespeichert.
+Mit nur einem weiteren Klick auf der Webseite lässt sich die fertige Firmware aus der Konfiguration erzeugen.
+Je nach Belieben kann diese über das Netzwerk direkt auf das Gerät übertragen oder für den ersten Flash-Vorgang heruntergeladen werden.
+
+![Die Konfiguration des Schalteinsatzes](./images/smarte-steckdosen/alfawise-esphome-code.jpg)
+
+Somit ist es mit ESPHome möglich nicht benötigte Komponenten wegzulassen, wie zum Beispiel die Weboberfläche.
+Die Verbindung zur Steckdose lässt sich wie bei Tasmota über MQTT herstellen oder direkt über die Home Assistant Schnittstelle.
+Für jedes Gerät existiert somit eine genau für den Einsatzzweck zugeschnittene Firmware.
+Auch können gleiche Einstellungen wie beispielsweise die WLAN Zugangsdaten referenziert werden, anstatt sie bei jedem Gerät erneut
+anzugeben.
+
+Mein Fazit nach dem ersten Teil über die Steckdosen aus China lautet: Das Geld was man spart, zahlt man an Zeit zurück.
+Ich für meinen Teil habe mich dafür entschieden, lieber etwas mehr Geld auszugeben und weniger selbst löten und modifizieren zu müssen.
+Was mich zu den Geräten von Shelly brachte.
+
+## Variante 2 – Shelly
+
+[Shelly](https://shelly.cloud/) bietet einige Smarte Geräte an, welche von sich aus auf Privacy ausgelegt sind.
+Bei jedem der Produkte ist eine Cloudanbindung optional. Alternativ kann das Gerät auch mittels MQTT oder das eigene Webinterface benutzt
+werden.
+
+Ich bin vor allem wegen dem einbaubaren [Shelly 1](https://shelly.cloud/shelly1-open-source/) auf die Produkte aufmerksam geworden.
+Dieser lässt sich in tiefen Einbaudosen gut verstecken. Durch einen Schalteingang ermöglicht er auch weiterhin den regulären Schaltbetrieb,
+falls gewünscht.
+Außerdem bietet Shelly auf fast all ihren Einbaugeräten eine voll angelötete Flash Schnittstelle an.
+Diese ist lediglich durch eine Gummiabdeckung verdeckt.
+
+![Eingesetzter Shelly](./images/smarte-steckdosen/shelly.jpg)
+
+Um nun meine Multimediageräte zu schalten wollte ich die in der Wand montierte Steckdose mit einem Shelly 1 versehen.
+Also wurde die Steckdose stromlos ausgebaut und die Platzverhältnisse in der Dose geprüft.
+Leider sind keine tiefen Dosen verbaut und meine Wände bestehen aus hartem Beton, was ein nachträgliches Vertiefen sehr erschwert.
+Also Steckdose zu und jetzt wurde eben die Steckdosenleiste direkt etwas smarter gemacht.
+
+An dieser Stelle will ich einmal darauf hinweisen das bei Betrieb gefährliche Netzspannung von 230V anliegt.
+Und Änderungen vom Fachmann durchgeführt und abgenommen werden müssen.
+
+In der Steckdosenleiste haben bereits 2 Steckdosen Dauerstrom und alle anderen sind über einen Fußschalter schaltbar.
+Um den Shelly einzubauen opferte ich einen Steckplatz an der Steckerleiste.
+Der existierende Schalter schloss ich an den Schalteingang an und funktioniert somit weiter.
+
+![Eingesetzter Shelly](./images/smarte-steckdosen/shelly-esphome-display.png)
+
+Auch wenn es nicht nötig war habe ich zum Testen eine ESPHome Firmware installiert. Zwar überflüssig, allerdings nicht für meinen innerern
+Bastler.
+
+Zuletzt wurde alles wieder verschlossen und die Aussparung mit dem Shelly wird (demnächst) mit einem Stopfen aus dem 3D Drucker geschlossen.
+Nach dem anschließen des Fernsehers und der anderen Geräte können diese nun über die Weboberfläche oder meinen Home Assistant geschalten
+werden.
+
+## Shelly Plug
+
+![Shelly Plug S Weboberfläche](./images/smarte-steckdosen/shelly-web-ui.png)
+
+Nach den Erfahrungen mit dem Shelly hab ich mir auch zwei [Shelly Plug](https://shelly.cloud/shelly-plug-s/) bestellt.
+Bei diesen handelt es sich wieder um Zwischenstecker mit sehr schlanken, kleinen Gehäuse.
+Zusätzlich zum Schalten kann die Steckdose auch die Leistung der angeschlossenen Geräte messen.
+
+Die Inbetriebnahme ist klassisch mit einem WLAN-Accesspoint zur Konfiguration des eigentlichen Netzwerks.
+Was mir sehr gut gefällt, ist das Opt-In der Schnittstellen. Außer der Webseite sind alle Zugriffsmöglichkeiten deaktiviert.
+Möchte man das MQTT Protokoll oder die [Shellycloud](https://shelly.cloud/cloud-connected/) benutzen, muss man diese erst aktivieren.
+
+Nachdem die MQTT Broker Einstellungen eingetragen werden funktioniert der Stecker genauso wie die selbstgeflashten Steckdosen.
+
+## Fazit
+
+Wie vielleicht schon zu vermuten, bin ich sehr von den Shelly’s überzeugt.
+Das ist natürlich meine eigene Meinung, aber ich finde sie nicht so überteuert wie ähnliche Produkte von anderen Herstellern.
+Auch die „Privacy First“ Einstellung des Unternehmens überschneidet sich sehr mit meinem Interesse beim Thema IoT.
+Zwar lassen sich die billigeren China-Klone auch umbauen, allerdings ist mir dafür die Zeit einfach zu Schade. Viel Spaß beim Ausprobieren!
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cloudless Roborock]]></title>
+            <link>https://blog.poeschl.xyz/post/cloudless-roborock/</link>
+            <guid>https://blog.poeschl.xyz/post/cloudless-roborock/</guid>
+            <pubDate>Mon, 11 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Viele von euch mit einem der vielen mit dem Internet verbundenen Geräten kennen es bestimmt: Es gibt eine App zur Konfiguration und Fernsteuerung. Über solche lassen sich beispielsweise Alexa Skills installieren oder auch der Reinigungsfortschritt der eigenen Waschmaschine prüfen. Sehr praktisch ... oder?]]></description>
+            <content:encoded><![CDATA[
+Kommt man aus einem eher technischen Umfeld, besteht (zumindest oft bei mir) die Frage: Wie machen die das denn?
+
+Aus den endlos vielen Möglichkeiten hat sich in letzter Zeit eine zentralisierte Lösung bei vielen Herstellern etabliert.
+Das heißt konkret ein Smart-Home Gerät übermittelt seine gesammelten Daten an einen oder mehrere Server im Internet und dort werden diese
+erst mal abgelegt.
+Frägt man nun per App den Status seines Geräts ab, empfängt man eigentlich nur den zwischengespeicherten Datenstand auf dem Server.
+Auch durch die App ausgelöste Aktionen werden zuerst an den Server übertragen, welcher dann den Befehl an das Gerät weiterleitet.
+Diese Art der Kommunikation erleichtert den Entwicklungsaufwand und auch die Installation des Geräts beim Endkunden
+enorm, allerdings werden so auch permanent Daten auf ein entferntes System übertragen und dort eventuell gespeichert.
+
+## Jetzt wird es "Cloudless"
+
+Ich bin allerdings sehr bemüht meine Daten auch in meinen eigenen vier Wänden zu behalten.
+Das führte dazu das mein neuer Haushaltshelfer "Dusty" auch erst mal kein Internet sehen durfte.
+Zumindest so lange bis einige "Daten-Knebel" an Ort und Stelle sind.
+
+![Der Roborock S55 in der Ladestation](./images/cloudless-roborock/dusty.jpg)
+
+Um "Dusty" kurz vorzustellen: Es handelt sich um einen Xiaomi "Roborock S55" der seit Februar 2018 auf dem Markt ist.
+Es ist ein runder Saugroboter, welcher seine Umgebung mittels eines Laser-Entfernungsmessers und weiteren Sensoren erkennt und seine Route
+den aktuellen Gegebenheiten anpasst.
+
+## Root-Zugriff
+
+### Hintergrund-Infos
+
+Für die Veränderung der Software auf dem Roboter benötigen man als ersten Schritt den Zugriff auf das Betriebssystem.
+Um "Dusty" für das Vorhaben zu "öffnen" hab ich das Ergebnis des Hacks von [Dennis Giese and Daniel Wegemer auf dem 34. Chaos Computer
+Congress (34c3)](https://fahrplan.events.ccc.de/congress/2017/Fahrplan/events/9147.html) benutzt.
+Die beiden verwenden eine etwas unkonventionelle Methode um Root-Zugriff auf den Roboter zu bekommen.
+Sie benutzen ein Stück-Alufolie um zwei Pins des verbauten Prozessors kurzzuschließen und diesen in einen Notfall-Modus zu bringen.
+In diesem Modus ist es möglich eine eigene Software in den Arbeitsspeicher zu laden und somit Zugriff auf das Roboter-Betriebssystem zu
+erhalten.
+Was im in diesem Fall ein minimal angepasstes Ubuntu Linux System ist. Beim analysieren des Update-Prozesses haben sie das
+Passwort der Verschlüsselung ermittelt ('rockrobo') und somit kann auch über weitere Geräte ohne Alu-Folie die volle Kontrolle
+übernommen werden.
+Alle ihre Ergebnisse und Daten, auch von weiteren Hacks von Xiaomi Geräte findet man in
+der [Dustcloud](https://github.com/dgiese/dustcloud).
+
+### Start the "Hack"
+
+Um "Dusty" jetzt zu rooten, habe ich die Punkte aus dem
+[Wiki des Dustcloud-Projekts](https://github.com/dgiese/dustcloud/wiki/VacuumRobots-manual-update-root-Howto) befolgt welche ich kurz mit
+euch durchgehe.
+
+Für die Erzeugung der eigenen Firmware muss man zwingend ein Linux zu benutzen, da manche der benutzten Tools nur dafür verfügbar sind.
+Für so etwas fahre ich bei mir eine virtuelle Maschine mit einem Debiansystem hoch.
+Das [Generieren des neuen Firmware Image](https://github.com/dgiese/dustcloud/wiki/VacuumRobots-manual-update-root-Howto#create-the-firmware-image)
+ging damit relativ unkompliziert und ohne Probleme vonstatten.
+
+Die frische Firmware überträgt man nach gleicher Anleitung anschließend auf den Staubsaugroboter.
+Wichtig dabei ist die Verbindung zum Roboter, wenn also noch nicht getan, müsst ihr euch mit dem Roborock-* WLAN verbinden.
+
+Sollte das jemand auch aus einer Virtualbox raus machen, gebt Acht dass ihr euer WLAN-Interface über eine Netzwerkbrücke verbindet.
+
+Bei mir ist an dieser Stelle alles gut gegangen und ich konnte mich mit SSH auf den Roboter verbinden. (Mit dem Benutzernamen root!)
+
+## Weboberfläche
+
+Mein Ziel ware es den Roborock komplett von den Xiaomi Servern zu trennen.
+Um trotzdem dessen Remote-Funktionalität zu erhalten habe ich mich für die Installation von [Valetudo](https://github.com/Hypfer/Valetudo)
+entschieden.
+Valetudo ist eine auf dem Roboter laufende Webanwendung die den Funktionsumfang der Original-App nachbildet und
+aktiv von einer großen Community weiterentwickelt wird.
+Die Installation läuft hier relativ einfach ab und am Ende wird die Weboberfläche unter htto://ip.de.s.robo gestartet.
+
+Eine Erklärung der Installation sowie
+eine [Schritt-für-Schritt Anleitung](https://github.com/Hypfer/Valetudo/wiki/Installation-Instructions)
+findet sich im Wiki des Valetudo-Projekts.
+Dabei wird in die originale Firmware die Valetudo Installation eingebettet und Blockaden in Richtung der Xiaomi Server erstellt.
+Auch für diese Schritte ist ein Linux-System oder eine virtuelle Machine hilfreich.
+
+![Das Hauptmenü von Valetudo](./images/cloudless-roborock/valetudo-ui.png)
+
+Weitere Blockaden können wie im [Wiki von Dustcloud](https://github.com/dgiese/dustcloud/wiki/VacuumRobots-disableUpdates) beschrieben
+errichtet werden.
+Es können zusätzlich noch die Regeln
+
+```text
+iptables -A OUTPUT -d 192.168.0.0/16 -j ACCEPT
+iptables -A OUTPUT -d 127.0.0.0/8 -j ACCEPT
+iptables -A OUTPUT -j DROP
+```
+
+in die `/etc/rc.local` eingetragen um jeglichen Traffik zu blockieren werden. Diese Änderung könnten allerdings bei einem Neustart
+verloren gehen.
+
+## Internetzugang
+
+Zu guter Letzt wird jetzt der Roboter mit Hilfe der Valetudo-Oberfläche unter Einstellungen in das heimische WLAN eingebunden.
+Somit kann jedes Gerät auf die Weboberfläche des Roboters zugreifen und steuern.
+
+Ich habe zusätzlich für mich noch einen VPN-Tunnel eingerichtet. Somit kann ich auch relativ sicher über den Tunnel aus der
+Ferne immer mal wieder nachschauen, was "Dusty" so treibt, ohne meinen Router direkt zum Internet hin öffnen zu müssen.
+
+Ich hoffe euch hat dieser kleine Ausflug in eine eher technischere Welt gut gefallen.
+Wenn ja dann lasst gerne einen Kommentar da, wenn nicht dann erst recht! Mann will sich ja verbessern.
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
